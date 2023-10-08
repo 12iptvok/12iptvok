@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.ibb.co/f1Pvdm2/telefe.jpg" group-title="Noticias",Telefe
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393329
+
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.postimg.cc/pVDrpFfD/americatv.jpg" group-title="Noticias",America TV
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393319
+
+#EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://i.postimg.cc/c4mdyqY3/canal9.jpg" group-title="Noticias",Canal 9
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393324
+
+#EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://i.postimg.cc/B6kRfpZR/canal13.jpg" group-title="Noticias",Canal 13
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393332
+
+#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/gJ7yMBcL/tv-publica.jpg" group-title="Noticias",Television Publica
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393321
+
+#EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://i.postimg.cc/BZ8tsz6w/cronicatv.jpg" group-title="Noticias",Cronica TV
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393335
+
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/9Q5QvTNf/c5n.jpg" group-title="Noticias",C5N
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393316
+
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/sDqRnxyc/tn.jpg" group-title="Noticias",TN
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393337
+
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/hG9Jvs66/a24.jpg" group-title="Noticias",A24
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393314
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://i.ibb.co/KDmgRv1/las-estrellas.jpg" group-title="Noticias",Las Estrellas
+http://161.132.243.192:50001/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.postimg.cc/kMVBNg05/cgtn.jpg" group-title="Noticias",CGTN
+http://lobo-tv.live:8080/restreamiptv/uHbQMnZaPxaQ/197419
+
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://i.ibb.co/4Vg9m4L/rt-espa-ol.jpg" group-title="Noticias",RT
+http://161.132.243.192:50001/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-id="Telesur" tvg-logo="https://i.ibb.co/HCk3Bgr/telesur.jpg" group-title="Noticias",Telesur
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/390294
