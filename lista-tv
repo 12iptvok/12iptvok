@@ -6,7 +6,7 @@ http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393329
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393319
 
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://i.postimg.cc/c4mdyqY3/canal9.jpg" group-title="Noticias",Canal 9
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393324
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393325
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://i.postimg.cc/B6kRfpZR/canal13.jpg" group-title="Noticias",Canal 13
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393332
@@ -37,6 +37,9 @@ http://161.132.243.192:50001/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://i.ibb.co/HCk3Bgr/telesur.jpg" group-title="Noticias",Telesur
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/390294
+
+#EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.ibb.co/qmtcFrd/hispantv.jpg" group-title="Noticias",HispanTV
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/BQV1MTXV/animal-planet.jpg" group-title="Documentales",Animal Planet
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/389714
@@ -186,13 +189,13 @@ http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/392327
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/392320
 
 #EXTINF:-1 tvg-id="TNT Sports HD B" tvg-logo="https://i.postimg.cc/X7FVpHkp/tnt-sports.jpg" group-title="Deportes",TNT Sports HD B
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/392367
+http://lobo-tv.live:8080/restreamiptv/uHbQMnZaPxaQ/155247
 
 #EXTINF:-1 tvg-id="TNT Sports HD C" tvg-logo="https://i.postimg.cc/X7FVpHkp/tnt-sports.jpg" group-title="Deportes",TNT Sports HD C
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393386
 
 #EXTINF:-1 tvg-id="TNT Sports HD D" tvg-logo="https://i.postimg.cc/X7FVpHkp/tnt-sports.jpg" group-title="Deportes",TNT Sports HD D
-http://miarea.vip:8080/PicoteDemo/vccjAc89v2/107888
+http://lobo-tv.live:8080/restreamiptv/uHbQMnZaPxaQ/17316
 
 #EXTINF:-1 tvg-id="TNT Sports SD A" tvg-logo="https://i.postimg.cc/X7FVpHkp/tnt-sports.jpg" group-title="Deportes",TNT Sports SD A
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/392321
@@ -212,8 +215,17 @@ http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/392358
 #EXTINF:-1 tvg-id="ESPN Premium HD B" tvg-logo="https://i.postimg.cc/NfFndWgb/espn-premium.jpg" group-title="Deportes",ESPN Premium HD B
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393381
 
-#EXTINF:-1 tvg-id="ESPN Premium SD" tvg-logo="https://i.postimg.cc/NfFndWgb/espn-premium.jpg" group-title="Deportes",ESPN Premium SD
+#EXTINF:-1 tvg-id="ESPN Premium HD C" tvg-logo="https://i.postimg.cc/NfFndWgb/espn-premium.jpg" group-title="Deportes",ESPN Premium HD C
+http://miarea.vip:8080/PicoteDemo/vccjAc89v2/256084
+
+#EXTINF:-1 tvg-id="ESPN Premium HD D" tvg-logo="https://i.postimg.cc/NfFndWgb/espn-premium.jpg" group-title="Deportes",ESPN Premium HD D
+http://37.49.225.145:8080/Miglior/rk8mEWJQMwyDZ9bYU35uPt/298158
+
+#EXTINF:-1 tvg-id="ESPN Premium SD A" tvg-logo="https://i.postimg.cc/NfFndWgb/espn-premium.jpg" group-title="Deportes",ESPN Premium SD A
 http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393379
+
+#EXTINF:-1 tvg-id="ESPN Premium SD B" tvg-logo="https://i.postimg.cc/NfFndWgb/espn-premium.jpg" group-title="Deportes",ESPN Premium SD B
+http://lobo-tv.live:8080/restreamiptv/uHbQMnZaPxaQ/2121662
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://i.postimg.cc/XY646fFd/espn.jpg" group-title="Deportes",ESPN A
 http://179.1.67.54:8000/play/a05y/index.m3u8
@@ -262,6 +274,21 @@ https://cdn-1.nxplay.com.br/Cult_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="E Music Rock" tvg-logo="https://i.ibb.co/QPNknDp/e-music-rock.jpg" group-title="Musica",E Music Rock
 https://cdn-1.nxplay.com.br/SCH_TK/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
