@@ -168,7 +168,7 @@ http://177.234.245.26:8000/play/a033/index.m3u8
 http://177.234.245.26:8000/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://i.postimg.cc/GmFxKDqJ/tcm.jpg" group-title="Peliculas - Series",TCM
-http://magi-stv.net:8080/UzielLCH/UzielLCH/187786
+http://45.5.119.155:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://i.postimg.cc/yY00smCM/los-simpson.jpg" group-title="Peliculas - Series",Los Simpson
 http://lobo-tv.live:8080/restreamiptv/uHbQMnZaPxaQ/2091014
