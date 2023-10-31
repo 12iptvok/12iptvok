@@ -15,10 +15,13 @@ http://200.24.206.132:8000/play/a0bg/index.m3u8
 http://magi-stv.net:8080/UzielLCH/UzielLCH/210865
 
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="http://imgfz.com/i/OmvKMop.png" group-title="Noticias",Cronica TV
-http://45.5.151.151:8000/play/a055/index.m3u8
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3541
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/161874
+
+#EXTINF:-1 tvg-id="Extra TV" tvg-logo="https://iili.io/JfWkWyF.png" group-title="Noticias",Extra TV
+http://45.5.151.151:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -221,6 +224,9 @@ http://magi-stv.net:8080/UzielLCH/UzielLCH/181346
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
 http://200.24.204.242:6020/play/a0e6/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN C" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN C
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/132275
+
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/227
 
@@ -256,6 +262,189 @@ https://cdn-1.nxplay.com.br/Cult_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="E Music Rock" tvg-logo="https://iili.io/JKrAQFj.png" group-title="Musica",E Music Rock
 https://cdn-1.nxplay.com.br/SCH_TK/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Destroyer. Una mujer herida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjZcNNFc8DTudMFbN3OeWo6g2Kn.jpg" group-title="Cine: Acción - Crimen",Destroyer. Una mujer herida (2018)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/93813.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Book of Monsters (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yTwzpgMFteCVpNqFbNyDQyyLjv.jpg" group-title="Cine: Comedia - Drama",Book of Monsters (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/93929.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Anna: El peligro tiene nombre (2019)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eLBq1ANzAHgVfQSK6urU0HaTGPS.jpg" group-title="Cine: Acción - Crimen",Anna: El peligro tiene nombre (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/94170.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Crypto (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSeYalxGSsB69rJj4EVy6W4HI7g.jpg" group-title="Cine: Acción - Crimen",Crypto (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/94193.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Joker (2019)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="Cine: Acción - Crimen",Joker (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/94240.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Colibrí (2019)" tvg-logo="https://www.themoviedb.org/t/p/original/uRRuhlqmzGnxugvA257Rt3dzvaz.jpg" group-title="Cine: Comedia - Drama",El Proyecto Colibrí (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/94304.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Maestras del Engaño (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TI2hkMQ2pmzoVKNNko2CSuvJfH.jpg" group-title="Cine: Comedia - Drama",Maestras del Engaño (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/94305.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Maligno (2019)" tvg-logo="https://www.themoviedb.org/t/p/original/sCiRCxY8qbIi6adTCBzk9MmqBFF.jpg" group-title="Cine: Suspenso - Terror",Maligno (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/94313.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Take Point (2018)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4hk97lGEZcgeQwNhMdByCEV1hIV.jpg" group-title="Cine: Acción - Crimen",Take Point (2018)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/95327.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Togo (2019)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg" group-title="Cine: Aventura - Ciencia ficción",Togo (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/98354.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La vendedora de rosas (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGdCYPCs8OM38qrIDzGwGzMPv9n.jpg" group-title="Cine: Comedia - Drama",La vendedora de rosas (1998)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/98593.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Parásitos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg" group-title="Cine: Comedia - Drama",Parásitos (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/99674.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Crimen a contrarreloj (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psHko4TmI3ZwOUlY3hfMU9UZie0.jpg" group-title="Cine: Acción - Crimen",Crimen a contrarreloj (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/99675.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Judy (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lJprb9HDWMAPp6fUdqus1MxTpk.jpg" group-title="Cine: Comedia - Drama",Judy (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/99676.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El traidor de la Mafia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cycbNjy4cGcDeuGonUfPZuYJeHN.jpg" group-title="Cine: Acción - Crimen",El traidor de la Mafia (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/99832.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pandemic (2016)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg" group-title="Cine: Acción - Crimen",Pandemic (2016)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100040.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La peor de mis bodas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yy6todz8zaovYIQfx26v5HnsxBL.jpg" group-title="Cine: Comedia - Drama",La peor de mis bodas (2016)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100041.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Su último deseo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8clazV2TtAK9CbTG2WPTbuVmx9C.jpg" group-title="Cine: Acción - Crimen",Su último deseo (2020)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100206.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="El ascenso del diablo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7e2Qxio7thoKKL0ceZlrlDhy4h.jpg" group-title="Cine: Suspenso - Terror",El ascenso del diablo (2020)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100239.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Entre Navajas y Secretos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdjjISkTL7euUD8mogXTqipgFpz.jpg" group-title="Cine: Suspenso - Terror",Entre Navajas y Secretos (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100443.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Max Bishop (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHoOqGsM174m8xtXyrLrGtGiDiK.jpg" group-title="Cine: Comedia - Drama",Max Bishop (2021)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/142035.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Presas de caza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYiyNyS8DPsEgE3Bav1SBHvopeF.jpg" group-title="Cine: Acción - Crimen",Presas de caza (2021)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/142036.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Voyeurs (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg" group-title="Cine: Comedia - Drama",Los Voyeurs (2021)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/144321.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Finde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krLXNQyZAn7ZqBQUWP9j9TVRBWD.jpg" group-title="Cine: Comedia - Drama",Finde (2021)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/144322.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El secreto de Adaline (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg" group-title="Cine: Comedia - Drama",El secreto de Adaline (2015)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/144356.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby Money (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KEjz8DjvimYR2Y252rK8PxDh8P.jpg" group-title="Cine: Acción - Crimen",Baby Money (2021)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/144357.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Terminator: Destino oscuro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg" group-title="Cine: Acción - Crimen",Terminator: Destino oscuro (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100270.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras del Doctor Dolittle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg" group-title="Cine: Comedia - Drama",Las aventuras del Doctor Dolittle (2020)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100952.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5S9XtXSfSZg0G6ulZHQuzSF6DH.jpg" group-title="Cine: Comedia - Drama",Jojo Rabbit (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100953.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El francotirador (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSAdNmbIcmjtZrf9qtFwgHhZxl3.jpg" group-title="Cine: Acción - Crimen",El francotirador (2014)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100965.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Estafadoras de Wall Street (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zd7qy3xee9mgB0LbH4yUQt5BAE4.jpg" group-title="Cine: Acción - Crimen",Estafadoras de Wall Street (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100966.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jefa por accidente (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GDxKKxnaoF0a1GEDdXT7Dytnuj.jpg" group-title="Cine: Comedia - Drama",Jefa por accidente (2018)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/101184.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Violet y Finch (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SafxuMKQiw4reBiWKVZJpJn80I.jpg" group-title="Cine: Comedia - Drama",Violet y Finch (2020)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/101252.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Maldición (The Grudge) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62gIJdks9agqdYavMHJx3FlRXp9.jpg" group-title="Cine: Suspenso - Terror",La Maldición (The Grudge) (2020)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/101266.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Doctor sueño (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gucnaxqpzEDycFmPwwqjiwvemA.jpg" group-title="Cine: Suspenso - Terror",Doctor sueño (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/98437.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Countdown (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCIPxSmXcZUJ0ZEi8B9Emf8xj6a.jpg" group-title="Cine: Suspenso - Terror",Countdown (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/98486.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jugando con fuego (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RBUCBhi1tqhYf1bGkmzOtIfHIG.jpg" group-title="Cine: Comedia - Drama",Jugando con fuego (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/98477.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Huérfanos de Brooklyn (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2X86f3KRbdStQXk0f8pZovSRpal.jpg" group-title="Cine: Acción - Crimen",Huérfanos de Brooklyn (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/98487.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Abigail (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rNWxdsUYDsDxHrEc3OmXZVdKwJ.jpg" group-title="Cine: Suspenso - Terror",Abigail (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/98490.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La gran mentira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhiZjKydWHNDPP4xqM9CmA3yBGR.jpg" group-title="Cine: Comedia - Drama",La gran mentira (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/98492.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Hard Night Falling (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shi9Fdv2noZXOkGZLjqMBSfbGVW.jpg" group-title="Cine: Acción - Crimen",Hard Night Falling (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/98494.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Manhattan sin salida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSN9SysoRBMwJKNkfOlQlCw2YQO.jpg" group-title="Cine: Acción - Crimen",Manhattan sin salida (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/98496.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El origen del planeta de los simios (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyCXO8lTKs62V5A4IsdNLjvskWM.jpg" group-title="Cine: Aventura - Ciencia ficción",El origen del planeta de los simios (2011)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100963.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El amanecer del planeta de los simios (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNu2N4a9nuGWgkeg3NzdRTDOz5N.jpg" group-title="Cine: Aventura - Ciencia ficción",El amanecer del planeta de los simios (2014)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100962.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La guerra del planeta de los simios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTwp3vdxcewkaLw41w0mVGRsHYw.jpg" group-title="Cine: Aventura - Ciencia ficción",La guerra del planeta de los simios (2017)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100964.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Horse Girl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNQ7st9dFXUXENMcsAuVxcrIBfA.jpg" group-title="Cine: Suspenso - Terror",HorseGirl (2020)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/100464.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La viuda (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTCbzxDozmU4LHFA3L07sdpFpqd.jpg" group-title="Cine: Suspenso - Terror",La viuda (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/102107.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Freaks (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdNqDvUCXy2K0ONytVgMY0YU3Su.jpg" group-title="Cine: Aventura - Ciencia ficción",Freaks (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/102111.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La trinchera infinita (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l28g28lT2yv1eIX0XNqNP4osPw.jpg" group-title="Cine: Comedia - Drama",La trinchera infinita (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/102114.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Ventajas de viajar en tren (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6C8uJnxoBZVYY7iueExVL423RLI.jpg" group-title="Cine: Suspenso - Terror",Ventajas de viajar en tren (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/102116.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Día de lluvia en Nueva York (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya9ojfuWylP4P6iiaIaxz67Chu0.jpg" group-title="Cine: Comedia - Drama",Día de lluvia en Nueva York (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/102714.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Jaulas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1jE9vywpdOiVKPNKMLfDqsqY2I.jpg" group-title="Cine: Suspenso - Terror",Jaulas (2018)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/102715.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea de los Giles (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAtpMUO7oKUi1lJIa7vWQCAVJIz.jpg" group-title="Cine: Acción - Crimen",La Odisea de los Giles (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/102716.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Un asunto de familia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQh7k7HJ7Avpyx9WF1KhCq9r6WI.jpg" group-title="Cine: Comedia - Drama",Un asunto de familia (2018)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/102719.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La carga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3E0RlV3UuJfIhhonjLrbfn6Neb.jpg" group-title="Cine: Acción - Crimen",La carga (2019)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/102723.mkv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
