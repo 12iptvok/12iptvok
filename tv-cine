@@ -20,10 +20,10 @@ http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3541
 #EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/161874
 
-#EXTINF:-1 tvg-id="Extra TV" tvg-logo="https://iili.io/JfWkWyF.png" group-title="Noticias",Extra TV
+#EXTINF:-1 tvg-id="Extra TV" tvg-logo="https://iili.io/JfWkWyF.png" group-title="Noticias",Extra TV 
 http://45.5.151.151:8000/play/a0a8/index.m3u8
 
-#EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
+#EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN 
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="http://imgfz.com/i/f2n4z0u.png" group-title="Noticias",A24
@@ -35,13 +35,13 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/180
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="http://imgfz.com/i/XaER4GO.png" group-title="Noticias",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="RT" tvg-logo="http://imgfz.com/i/C5Ns27u.png" group-title="Noticias",RT
+#EXTINF:-1 tvg-id="RT" tvg-logo="http://imgfz.com/i/C5Ns27u.png" group-title="Noticias",RT 
 https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="http://imgfz.com/i/xnMeKG6.png" group-title="Noticias",Telesur
 http://190.217.117.194:8000/play/a0gv/index.m3u8
 
-#EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="Noticias",HispanTV
+#EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="Noticias",HispanTV 
 https://live3.presstv.ir/hispantv/07.m3u8
 
 #EXTINF:-1 tvg-id="Venezolana de Television" tvg-logo="http://imgfz.com/i/LNx7Pop.png" group-title="Noticias",Venezolana de Television
