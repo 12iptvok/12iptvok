@@ -24,7 +24,7 @@ http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/161874
 http://45.5.151.151:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN 
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/140376
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="http://imgfz.com/i/f2n4z0u.png" group-title="Noticias",A24
 http://magi-stv.net:8080/UzielLCH/UzielLCH/210833
@@ -219,7 +219,7 @@ http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/145421
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2121662
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
-http://magi-stv.net:8080/UzielLCH/UzielLCH/181346
+http://45.5.151.151:8000/play/a0bq/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
 http://200.24.204.242:6020/play/a0e6/index.m3u8
