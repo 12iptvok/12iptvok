@@ -42,7 +42,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
 http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/3557
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="Noticias",HispanTV 
-https://live3.presstv.ir/hispantv/07.m3u8
+http://38.41.8.1:8000/play/a03g
 
 #EXTINF:-1 tvg-id="Venezolana de Television" tvg-logo="http://imgfz.com/i/LNx7Pop.png" group-title="Noticias",Venezolana de Television
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/199
