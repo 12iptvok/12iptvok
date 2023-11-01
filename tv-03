@@ -39,7 +39,7 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="http://imgfz.com/i/xnMeKG6.png" group-title="Noticias",Telesur
-http://190.217.117.194:8000/play/a0gv/index.m3u8
+https://www.dailymotion.com/video/x82ug5r
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="Noticias",HispanTV
 https://live3.presstv.ir/hispantv/07.m3u8
