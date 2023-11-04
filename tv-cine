@@ -186,19 +186,19 @@ http://177.234.242.112:50032/play/a0fw/index.m3u8
 http://45.236.151.66:3232/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
-http://magi-stv.net:8080/UzielLCH/UzielLCH/2154023
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/196
 
 #EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports B
-http://magi-stv.net:8080/UzielLCH/UzielLCH/199511
+http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/132284
 
 #EXTINF:-1 tvg-id="TNT Sports A" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports A
-http://magi-stv.net:8080/UzielLCH/UzielLCH/155677
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/132285
 
 #EXTINF:-1 tvg-id="TNT Sports B" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports B
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/131980
 
 #EXTINF:-1 tvg-id="TNT Sports C" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports C
-http://magi-stv.net:8080/UzielLCH/UzielLCH/17316
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/131980
 
 #EXTINF:-1 tvg-id="TNT Sports D" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports D
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/132285
@@ -213,28 +213,34 @@ http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/4938
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/145417
 
 #EXTINF:-1 tvg-id="ESPN Premium D" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium D
-http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/145421
-
-#EXTINF:-1 tvg-id="ESPN Premium E" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium E
-http://magi-stv.net:8080/UzielLCH/UzielLCH/2121662
+http://3208499087667949.of1030ok.xyz:80/play/Edu123456/9Te@UYEASpAk/667949.ts
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
-http://45.5.151.151:8000/play/a0bq/index.m3u8
+http://3208499087600819.of1030ok.xyz:80/play/Edu123456/9Te@UYEASpAk/600819.ts
 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
-http://200.24.204.242:6020/play/a0e6/index.m3u8
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/132275
 
 #EXTINF:-1 tvg-id="ESPN C" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN C
-http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/132275
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/19
+
+#EXTINF:-1 tvg-id="ESPN D" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN C
+http://200.24.204.242:6020/play/a0e6/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/227
 
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 B
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/19
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/3852
 
-#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports A
+#EXTINF:-1 tvg-id="FOX Sports A" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports A
 http://magi-stv.net:8080/UzielLCH/UzielLCH/2090080
+
+#EXTINF:-1 tvg-id="FOX Sports B" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports A
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/132268
+
+#EXTINF:-1 tvg-id="FOX Sports C" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports A
+http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/3861
 
 #EXTINF:-1 tvg-id="FOX Sports 1" tvg-logo="https://iili.io/JKr23ml.png" group-title="Deportes",FOX Sports 1
 http://45.4.3.75:7577/play/a13q/index.m3u8
