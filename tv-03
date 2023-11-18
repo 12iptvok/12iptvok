@@ -47,6 +47,9 @@ https://live3.presstv.ir/hispantv/07.m3u8
 #EXTINF:-1 tvg-id="Venezolana de Television" tvg-logo="http://imgfz.com/i/LNx7Pop.png" group-title="Noticias",Venezolana de Television
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/199
 
+#EXTINF:-1 tvg-id="amc crime" tvg-logo="https://i.postimg.cc/2jHFy9R3/amc-crime.png" group-title="Documentales",amc crime
+http://scorpione.net:25461/06648853809/557675767575/187509
+
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://imgfz.com/i/09UWrie.png" group-title="Documentales",Animal Planet
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/43
 
