@@ -62,9 +62,6 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/161
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://iili.io/JKgE2BS.png" group-title="Documentales",Discovery World
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/225
 
-#EXTINF:-1 tvg-id="Discovery Max" tvg-logo="https://iili.io/JKgMPhx.png" group-title="Documentales",Discovery Max
-http://www.pandar.tv:25461/sonewhrab/jgjdh3767DJSHBNdghsSDJ236/127756
-
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://iili.io/JKgWGNs.png" group-title="Documentales",Investigation Discovery
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/41
 
@@ -119,8 +116,8 @@ http://200.24.206.132:8000/play/a0cf/index.m3u8
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/31
 
-#EXTINF:-1 tvg-id="DreamWorks" tvg-logo="https://iili.io/JKgLbiQ.png" group-title="Peliculas - Series",DreamWorks
-http://magi-stv.net:8080/UzielLCH/UzielLCH/2163078
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://i.postimg.cc/8CjL34Qc/warner-tv.png" group-title="Peliculas - Series",Warner
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/32
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="Peliculas - Series",TNT
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/26
@@ -147,7 +144,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/28
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/189
 
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://iili.io/JKgt4lp.png" group-title="Peliculas - Series",amc
-http://322168855265609930.of1030ok.xyz:80/play/vi602943/xUyvTWuBXn/609930.ts
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4331
 
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://iili.io/JKgD9g2.md.png" group-title="Peliculas - Series",Sony Movies
 http://200.24.206.132:8000/play/a00v/index.m3u8
@@ -180,10 +177,10 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/38
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/36
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://iili.io/JKgbDF4.png" group-title="Peliculas - Series",Los Simpson
-http://magi-stv.net:8080/UzielLCH/UzielLCH/2091013
+http://00322.xyz:8000/goodserver/2C4X1EC7EW/129313
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
-http://37.49.225.197:8080/linuxapp2021/zdFTTQCKXWq84YWF/8749
+http://nxt.plus:8080/edertp/264011/60567
 
 #EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports B
 http://45.236.151.66:3232/play/a038/index.m3u8
@@ -195,64 +192,52 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/196
 http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/132284
 
 #EXTINF:-1 tvg-id="TNT Sports A" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports A
-http://latinoamericatv.vip:8080/82736mdbenehut65/Teyeb8399404/81251
+http://00322.xyz:8000/goodserver/2C4X1EC7EW/131980
 
 #EXTINF:-1 tvg-id="TNT Sports B" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports B
-http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/131980
+http://322168855265654689.of1030ok.xyz:80/play/vi602943/xUyvTWuBXn/654689.ts
 
 #EXTINF:-1 tvg-id="TNT Sports C" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports C
-http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/131980
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/131980
 
 #EXTINF:-1 tvg-id="TNT Sports D" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports D
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/132285
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium A
-http://45.5.151.151:8000/play/a001/index.m3u8
+http://00322.xyz:8000/goodserver/2C4X1EC7EW/4938
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium B
-http://322168855265667949.of1030ok.xyz:80/play/vi602943/xUyvTWuBXn/667949.ts
+http://00322.xyz:8000/goodserver/2C4X1EC7EW/145421
 
 #EXTINF:-1 tvg-id="ESPN Premium C" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium C
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/145417
 
 #EXTINF:-1 tvg-id="ESPN Premium D" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium D
-http://37.49.225.197:8080/linuxapp2021/zdFTTQCKXWq84YWF/298158
+http://00322.xyz:8000/goodserver/2C4X1EC7EW/148461
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
-http://3208499087600819.of1030ok.xyz:80/play/Edu123456/9Te@UYEASpAk/600819.ts
-
-#EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/132275
 
-#EXTINF:-1 tvg-id="ESPN C" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN C
+#EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/4938
 
-#EXTINF:-1 tvg-id="ESPN D" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN D
+#EXTINF:-1 tvg-id="ESPN C" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN C
 http://200.24.204.242:6020/play/a0e6/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/227
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/20
 
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 B
-http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/3852
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/227
 
 #EXTINF:-1 tvg-id="FOX Sports A" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports A
-http://magi-stv.net:8080/UzielLCH/UzielLCH/2090080
+http://nxt.plus:8080/richard10/202135/166747
 
 #EXTINF:-1 tvg-id="FOX Sports B" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports B
-http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/132268
-
-#EXTINF:-1 tvg-id="FOX Sports C" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports C
-http://00322.xyz:8000/VeoTV/KN4KH0FWDJ/3861
+http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/166747
 
 #EXTINF:-1 tvg-id="FOX Sports 1" tvg-logo="https://iili.io/JKr23ml.png" group-title="Deportes",FOX Sports 1
 http://45.4.3.75:7577/play/a13q/index.m3u8
-
-#EXTINF:-1 tvg-id="Mi Musica Salsa" tvg-logo="https://iili.io/JKruBgR.png" group-title="Musica",Mi Musica Salsa
-http://179.189.222.226:8000/play/ch55
-
-#EXTINF:-1 tvg-id="Mi Musica Romantica" tvg-logo="https://iili.io/JKrTaN1.png" group-title="Musica",Mi Musica Romantica
-http://179.189.222.226:8000/play/ch54
 
 #EXTINF:-1 tvg-id="E Music Black" tvg-logo="https://iili.io/JKruLkN.png" group-title="Musica",E Music Black
 https://cdn-1.nxplay.com.br/MEGA_TK/index.m3u8
