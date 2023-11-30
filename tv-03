@@ -168,7 +168,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/27
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/185
 
 #EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://iili.io/JKgbcZu.png" group-title="Peliculas - Series",Cine Latino
-http://177.234.245.26:8000/play/a033/index.m3u8
+http://204.157.251.250:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://iili.io/JKgbNZg.png" group-title="Peliculas - Series",AXN
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/38
@@ -192,10 +192,10 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/196
 http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/132284
 
 #EXTINF:-1 tvg-id="TNT Sports A" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports A
-http://00322.xyz:8000/goodserver/2C4X1EC7EW/131980
+http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/25121
 
 #EXTINF:-1 tvg-id="TNT Sports B" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports B
-http://322168855265654689.of1030ok.xyz:80/play/vi602943/xUyvTWuBXn/654689.ts
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
 
 #EXTINF:-1 tvg-id="TNT Sports C" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports C
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/131980
@@ -204,7 +204,7 @@ http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/131980
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/132285
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium A
-http://322168855265667949.of1030ok.xyz:80/play/vi602943/xUyvTWuBXn/667949.ts
+http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/11476
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium B
 http://00322.xyz:8000/goodserver/2C4X1EC7EW/145421
