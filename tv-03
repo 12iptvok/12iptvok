@@ -125,17 +125,29 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/26
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://iili.io/JKgQv71.png" group-title="Peliculas - Series",TNT Series
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/191
 
+#EXTINF:-1 tvg-id="I Sat" tvg-logo="https://i.postimg.cc/WbX9xjhC/i-sat.png" group-title="Peliculas - Series",I Sat
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/37
+
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://iili.io/JKgQQ2I.png" group-title="Peliculas - Series",Space
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/258
 
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://iili.io/JKgZKv9.png" group-title="Peliculas - Series",TLC
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/45
 
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="Peliculas - Series",Universal TV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/266
+
+#EXTINF:-1 tvg-id="Universal Cinema" tvg-logo="https://i.postimg.cc/50s16Tsr/universal-cinema.png" group-title="Peliculas - Series",Universal Cinema
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
+
 #EXTINF:-1 tvg-id="Universal Comedy" tvg-logo="https://iili.io/JKgZjun.png" group-title="Peliculas - Series",Universal Comedy
 http://186.148.163.18:8000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://iili.io/JKgZg87.png" group-title="Peliculas - Series",Universal Crime
 http://190.149.66.90:4000/play/a03w/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://i.postimg.cc/2yLJrKMh/universal-premiere.png" group-title="Peliculas - Series",Universal Premiere
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4250
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://iili.io/JKgZbcB.png" group-title="Peliculas - Series",Cinemax
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/28
@@ -145,6 +157,9 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/189
 
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://iili.io/JKgt4lp.png" group-title="Peliculas - Series",amc
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4331
+
+#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="https://i.postimg.cc/85fQzcr7/sony-channel.png" group-title="Peliculas - Series",Sony Channel
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/257
 
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://iili.io/JKgD9g2.md.png" group-title="Peliculas - Series",Sony Movies
 http://200.24.206.132:8000/play/a00v/index.m3u8
@@ -158,8 +173,14 @@ http://38.43.150.125:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="Peliculas - Series",HBO
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/173
 
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.postimg.cc/q7f25ZXW/hbo-2.png" group-title="Peliculas - Series",HBO 2
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4182
+
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://iili.io/JKgDiEx.png" group-title="Peliculas - Series",HBO Plus
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
+
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.postimg.cc/cL7Jd9Gp/hbo-xtreme.png" group-title="Peliculas - Series",HBO Xtreme
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4183
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://iili.io/JKgDyQa.png" group-title="Peliculas - Series",Cinecanal
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/27
