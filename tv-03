@@ -80,7 +80,7 @@ http://nxt.plus:8080/edertp/264011/52885
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/40
 
-#EXTINF:-1 tvg-id="Viajar" tvg-logo="https://i.postimg.cc/NfqHrVjN/viajar.png" group-title="Noticias",Viajar
+#EXTINF:-1 tvg-id="Viajar" tvg-logo="https://i.postimg.cc/NfqHrVjN/viajar.png" group-title="Entretenimiento",Viajar
 https://stmv5.livecastv.com/manualtman/manualtman/chunklist_w1401505560.m3u8
 
 #EXTINF:-1 tvg-id="Film & Arts" tvg-logo="https://iili.io/JKg8iQt.png" group-title="Entretenimiento",Film & Arts
