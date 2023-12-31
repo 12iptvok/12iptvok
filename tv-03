@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="http://imgfz.com/i/QGrfZet.png" group-title="Noticias",Telefe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0084
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="http://imgfz.com/i/zbWlqtc.png" group-title="Noticias",America TV
 http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/12262
@@ -9,25 +9,22 @@ http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/12262
 http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/1632
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="http://imgfz.com/i/cRg69o4.png" group-title="Noticias",Canal 13
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
 
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="http://imgfz.com/i/lRIVuop.png" group-title="Noticias",Television Publica
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
 
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="http://imgfz.com/i/OmvKMop.png" group-title="Noticias",Cronica TV
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0070
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0067
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
-
-#EXTINF:-1 tvg-id="El Destape" tvg-logo="https://i.postimg.cc/NfGQdxcq/el-destape-fm.png" group-title="Noticias",El Destape
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="http://imgfz.com/i/f2n4z0u.png" group-title="Noticias",A24
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0088
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0084
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="http://imgfz.com/i/pd6rVnc.png" group-title="Noticias",Las Estrellas
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/180
