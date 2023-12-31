@@ -110,6 +110,9 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/179
 #EXTINF:-1 tvg-id="Home Garden TV" tvg-logo="https://iili.io/JKggv4e.png" group-title="Entretenimiento",Home Garden TV
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3935
 
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://iili.io/JKgZKv9.png" group-title="Entretenimiento",TLC
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/45
+
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://iili.io/JKgrNHJ.png" group-title="Entretenimiento",A&E
 http://nxt.plus:8080/magyfs3S/magyfs3S/58123
 
@@ -120,7 +123,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/31
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/32
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="Peliculas - Series",TNT
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/26
+http://nxt.plus:8080/richard10/202135/25213
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://iili.io/JKgQv71.png" group-title="Peliculas - Series",TNT Series
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/191
@@ -130,9 +133,6 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/37
 
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://iili.io/JKgQQ2I.png" group-title="Peliculas - Series",Space
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/258
-
-#EXTINF:-1 tvg-id="TLC" tvg-logo="https://iili.io/JKgZKv9.png" group-title="Peliculas - Series",TLC
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/45
 
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="Peliculas - Series",Universal TV
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/33
@@ -162,7 +162,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4331
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/34
 
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://iili.io/JKgD9g2.md.png" group-title="Peliculas - Series",Sony Movies
-http://200.24.206.132:8000/play/a00v/index.m3u8
+http://nxt.plus:8080/richard10/202135/114820
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://iili.io/JKgD7LJ.png" group-title="Peliculas - Series",Studio Universal
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/188
