@@ -44,7 +44,7 @@ https://live3.presstv.ir/hispantv/07.m3u8
 #EXTINF:-1 tvg-id="Venezolana de Television" tvg-logo="http://imgfz.com/i/LNx7Pop.png" group-title="Noticias",Venezolana de Television
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/199
 
-#EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/vHWpdZps/encuentro.png" group-title="Documentales",Encuentro
+#EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="Documentales",Encuentro
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
 
 #EXTINF:-1 tvg-id="amc crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="Documentales",amc crime
