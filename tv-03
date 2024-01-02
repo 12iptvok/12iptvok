@@ -44,6 +44,9 @@ https://live3.presstv.ir/hispantv/07.m3u8
 #EXTINF:-1 tvg-id="Venezolana de Television" tvg-logo="http://imgfz.com/i/LNx7Pop.png" group-title="Noticias",Venezolana de Television
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/199
 
+#EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/vHWpdZps/encuentro.png" group-title="Documentales",Encuentro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+
 #EXTINF:-1 tvg-id="amc crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="Documentales",amc crime
 http://shacktv.com:8080/carreiro2023/8134773637/22060
 
@@ -259,6 +262,9 @@ http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/166747
 
 #EXTINF:-1 tvg-id="FOX Sports 1" tvg-logo="https://iili.io/JKr23ml.png" group-title="Deportes",FOX Sports 1
 http://45.4.3.75:7577/play/a13q/index.m3u8
+
+#EXTINF:-1 tvg-id="MusicTop" tvg-logo="https://i.postimg.cc/xTS4gSqF/musictop.png" group-title="Musica",MusicTop
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0041
 
 #EXTINF:-1 tvg-id="E Music Black" tvg-logo="https://iili.io/JKruLkN.png" group-title="Musica",E Music Black
 https://cdn-1.nxplay.com.br/MEGA_TK/index.m3u8
