@@ -14,8 +14,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="http://imgfz.com/i/lRIVuop.png" group-title="Noticias",Television Publica
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
 
-#EXTINF:-1 tvg-id="Cronica TV" tvg-logo="http://imgfz.com/i/OmvKMop.png" group-title="Noticias",Cronica TV
-https://i.postimg.cc/RV98PPCB/cronica.png
+#EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica TV
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0067
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
