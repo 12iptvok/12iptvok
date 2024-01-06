@@ -36,7 +36,7 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="http://imgfz.com/i/xnMeKG6.png" group-title="Noticias",Telesur
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4304
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="Noticias",HispanTV
 https://live3.presstv.ir/hispantv/07.m3u8
@@ -47,14 +47,14 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/199
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="Documentales",Encuentro
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
 
-#EXTINF:-1 tvg-id="amc crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="Documentales",amc crime
-http://shacktv.com:8080/carreiro2023/8134773637/22060
+#EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="Documentales",AMC Crime
+http://106661768617386495.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/386495.ts
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://imgfz.com/i/09UWrie.png" group-title="Documentales",Animal Planet
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/43
+http://106661768617617022.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/617022.ts
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
-http://38.43.132.86:8000/play/a00z/index.m3u8
+http://106661768617654663.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/654663.ts
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://iili.io/JKg0IAx.png" group-title="Documentales",Discovery Science
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/161
@@ -81,7 +81,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4285
 http://nxt.plus:8080/edertp/264011/52885
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/40
+http://106661768617694422.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/694422.ts
 
 #EXTINF:-1 tvg-id="Viajar" tvg-logo="https://i.postimg.cc/NfqHrVjN/viajar.png" group-title="Entretenimiento",Viajar
 https://stmv5.livecastv.com/manualtman/manualtman/chunklist_w1401505560.m3u8
@@ -99,7 +99,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/181
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4269
 
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://iili.io/JKgUzJf.png" group-title="Entretenimiento",Canal Cocina
-http://scorpioniptv.com:2086/0167454433/zcfdfg7d/255114
+http://106661768617321149.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/321149.ts
 
 #EXTINF:-1 tvg-id="TruTV" tvg-logo="https://iili.io/JKgUWzB.png" group-title="Entretenimiento",TruTV
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/264
@@ -129,7 +129,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/32
 http://nxt.plus:8080/richard10/202135/25213
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://iili.io/JKgQv71.png" group-title="Peliculas - Series",TNT Series
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/191
+http://106661768617755494.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/755494.ts
 
 #EXTINF:-1 tvg-id="I Sat" tvg-logo="https://i.postimg.cc/WbX9xjhC/i-sat.png" group-title="Peliculas - Series",I Sat
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/37
@@ -141,7 +141,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/258
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/33
 
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-logo="https://i.postimg.cc/50s16Tsr/universal-cinema.png" group-title="Peliculas - Series",Universal Cinema
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
+http://gafitvapp.win:8080/FeevzSbthmLf/dCtAFQN3DsUW/477183
 
 #EXTINF:-1 tvg-id="Universal Comedy" tvg-logo="https://iili.io/JKgZjun.png" group-title="Peliculas - Series",Universal Comedy
 http://186.148.163.18:8000/play/a04a/index.m3u8
@@ -158,8 +158,8 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/28
 #EXTINF:-1 tvg-id="USA" tvg-logo="https://iili.io/JKgtxNn.png" group-title="Peliculas - Series",USA
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/189
 
-#EXTINF:-1 tvg-id="amc" tvg-logo="https://iili.io/JKgt4lp.png" group-title="Peliculas - Series",amc
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4331
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://iili.io/JKgt4lp.png" group-title="Peliculas - Series",AMC
+http://106661768617645655.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/645655.ts
 
 #EXTINF:-1 tvg-id="Sony Channel" tvg-logo="https://i.postimg.cc/85fQzcr7/sony-channel.png" group-title="Peliculas - Series",Sony Channel
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/34
@@ -204,7 +204,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/36
 http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/129313
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
-http://nxt.plus:8080/edertp/264011/60567
+http://gafitvapp.win:8080/FeevzSbthmLf/dCtAFQN3DsUW/495623
 
 #EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports B
 http://45.236.151.66:3232/play/a038/index.m3u8
@@ -212,19 +212,13 @@ http://45.236.151.66:3232/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="TyC Sports C" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports C
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/196
 
-#EXTINF:-1 tvg-id="TyC Sports D" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports D
-http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/132284
-
 #EXTINF:-1 tvg-id="TNT Sports A" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports A
 http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/25121
 
 #EXTINF:-1 tvg-id="TNT Sports B" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports B
-http://shacktv.com:8080/carreiro2023/8134773637/61205
-
-#EXTINF:-1 tvg-id="TNT Sports C" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports C
 http://tv.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/181745
 
-#EXTINF:-1 tvg-id="TNT Sports D" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports D
+#EXTINF:-1 tvg-id="TNT Sports C" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports C
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/132285
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium A
@@ -235,9 +229,6 @@ http://tv.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/181740
 
 #EXTINF:-1 tvg-id="ESPN Premium C" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium C
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/145417
-
-#EXTINF:-1 tvg-id="ESPN Premium D" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium D
-http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/4938
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
 http://tv.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/181839
