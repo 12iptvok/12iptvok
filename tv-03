@@ -9,22 +9,22 @@ http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/12262
 http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/1632
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="http://imgfz.com/i/cRg69o4.png" group-title="Noticias",Canal 13
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
 
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="http://imgfz.com/i/lRIVuop.png" group-title="Noticias",Television Publica
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
 
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica TV
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0067
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0068
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0070
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="http://imgfz.com/i/f2n4z0u.png" group-title="Noticias",A24
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0084
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0085
 
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="http://imgfz.com/i/XaER4GO.png" group-title="Noticias",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -42,7 +42,7 @@ https://live3.presstv.ir/hispantv/07.m3u8
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/199
 
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="Documentales",Encuentro
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 
 #EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="Documentales",AMC Crime
 http://106661768617386495.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/386495.ts
@@ -255,7 +255,7 @@ http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/166747
 http://45.4.3.75:7577/play/a13q/index.m3u8
 
 #EXTINF:-1 tvg-id="MusicTop" tvg-logo="https://i.postimg.cc/xTS4gSqF/musictop.png" group-title="Musica",MusicTop
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0041
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0042
 
 #EXTINF:-1 tvg-id="E Music Black" tvg-logo="https://iili.io/JKruLkN.png" group-title="Musica",E Music Black
 https://cdn-1.nxplay.com.br/MEGA_TK/index.m3u8
