@@ -30,13 +30,13 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0084
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="RT" tvg-logo="http://imgfz.com/i/C5Ns27u.png" group-title="Noticias",RT
-https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="http://imgfz.com/i/xnMeKG6.png" group-title="Noticias",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="Noticias",HispanTV
-https://live3.presstv.ir/hispantv/07.m3u8
+https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-148/st7n-1qtz_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Venezolana de Television" tvg-logo="http://imgfz.com/i/LNx7Pop.png" group-title="Noticias",Venezolana de Television
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/199
@@ -191,7 +191,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/27
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://iili.io/JKgbFYN.png" group-title="Peliculas - Series",Paramount
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/185
 
-#EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://iili.io/JKgbcZu.png" group-title="Peliculas - Series",Cine Latino
+#EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://i.postimg.cc/k5Z0Pd31/cine-latino-azul.png" group-title="Peliculas - Series",Cine Latino
 http://204.157.251.250:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://iili.io/JKgbNZg.png" group-title="Peliculas - Series",AXN
