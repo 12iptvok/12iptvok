@@ -188,7 +188,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/27
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://iili.io/JKgbFYN.png" group-title="Peliculas - Series",Paramount
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/185
 
-#EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://iili.io/JKgbcZu.png" group-title="Peliculas - Series",Cine Latino
+#EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://i.postimg.cc/k5Z0Pd31/cine-latino-azul.png" group-title="Peliculas - Series",Cine Latino
 http://204.157.251.250:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://iili.io/JKgbNZg.png" group-title="Peliculas - Series",AXN
@@ -229,6 +229,9 @@ http://23.131.184.114:80/Orlando/1234/589446
 
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports
 http://23.131.184.114:80/Orlando/1234/589452
+
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://i.postimg.cc/GhQ6hDns/fox-sports-2.png" group-title="Deportes",FOX Sports 2
+http://98138430733755418.ofd0107.xyz:80/play/PWS96FBFYL/RnRku@MFx7/755418.ts
 
 #EXTINF:-1 tvg-id="DIRECTV Sports" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports
 http://23.131.184.114:80/Orlando/1234/589317
