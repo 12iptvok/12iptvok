@@ -230,9 +230,6 @@ http://23.131.184.114:80/Orlando/1234/589446
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports
 http://23.131.184.114:80/Orlando/1234/589452
 
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://i.postimg.cc/GhQ6hDns/fox-sports-2.png" group-title="Deportes",FOX Sports 2
-http://latinoamericatv.vip:8080/usuariocanales737/nKPxbFW46jgM/50506
-
 #EXTINF:-1 tvg-id="DIRECTV Sports" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports
 http://23.131.184.114:80/Orlando/1234/589317
 
