@@ -36,7 +36,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="Noticias",HispanTV
-https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-148/st7n-1qtz_720p/chunklist.m3u8
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Venezolana de Television" tvg-logo="http://imgfz.com/i/LNx7Pop.png" group-title="Noticias",Venezolana de Television
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/199
@@ -129,7 +129,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/32
 http://nxt.plus:8080/richard10/202135/25213
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://iili.io/JKgQv71.png" group-title="Peliculas - Series",TNT Series
-http://106661768617755494.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/755494.ts
+http://nxt.plus:8080/richard10/202135/16925
 
 #EXTINF:-1 tvg-id="I Sat" tvg-logo="https://i.postimg.cc/WbX9xjhC/i-sat.png" group-title="Peliculas - Series",I Sat
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/37
@@ -141,16 +141,16 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/258
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/33
 
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-logo="https://i.postimg.cc/50s16Tsr/universal-cinema.png" group-title="Peliculas - Series",Universal Cinema
-http://gafitvapp.win:8080/FeevzSbthmLf/dCtAFQN3DsUW/477183
+http://45.5.117.182:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal Comedy" tvg-logo="https://iili.io/JKgZjun.png" group-title="Peliculas - Series",Universal Comedy
-http://186.148.163.18:8000/play/a04a/index.m3u8
+http://nxt.plus:8080/richard10/202135/24328
 
 #EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://iili.io/JKgZg87.png" group-title="Peliculas - Series",Universal Crime
 http://190.149.66.90:4000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://i.postimg.cc/2yLJrKMh/universal-premiere.png" group-title="Peliculas - Series",Universal Premiere
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4250
+http://45.5.117.182:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://iili.io/JKgZbcB.png" group-title="Peliculas - Series",Cinemax
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/28
