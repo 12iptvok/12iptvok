@@ -63,7 +63,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/225
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/41
 
 #EXTINF:-1 tvg-id="History" tvg-logo="https://iili.io/JKghTCv.png" group-title="Documentales",History
-http://38.43.150.125:8000/play/a00s/index.m3u8
+http://23.131.184.114:80/Orlando/1234/602850
 
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://iili.io/JKgjZ57.png" group-title="Documentales",History 2
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/178
@@ -171,7 +171,7 @@ http://nxt.plus:8080/richard10/202135/114820
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/188
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://iili.io/JKgDE7I.png" group-title="Peliculas - Series",FX
-http://38.43.150.125:8000/play/a02e/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/233
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="Peliculas - Series",HBO
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/173
