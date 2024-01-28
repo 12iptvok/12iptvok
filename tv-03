@@ -38,14 +38,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="Noticias",HispanTV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Venezolana de Television" tvg-logo="http://imgfz.com/i/LNx7Pop.png" group-title="Noticias",Venezolana de Television
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/199
-
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="Documentales",Encuentro
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
-
-#EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="Documentales",AMC Crime
-http://106661768617386495.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/386495.ts
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://imgfz.com/i/09UWrie.png" group-title="Documentales",Animal Planet
 http://106661768617617022.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/617022.ts
@@ -53,14 +47,17 @@ http://106661768617617022.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/617022.ts
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
 http://106661768617654663.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/654663.ts
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://iili.io/JKg0IAx.png" group-title="Documentales",Discovery Science
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/161
-
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://iili.io/JKgE2BS.png" group-title="Documentales",Discovery World
 http://23.131.184.114:80/Orlando/1234/602571
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://iili.io/JKgWGNs.png" group-title="Documentales",Investigation Discovery
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/41
+
+#EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="Documentales",AMC Crime
+http://106661768617386495.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/386495.ts
+
+#EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://iili.io/JKgZg87.png" group-title="Documentales",Universal Crime
+http://190.149.66.90:4000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-logo="https://iili.io/JKghTCv.png" group-title="Documentales",History
 http://23.131.184.114:80/Orlando/1234/602850
@@ -83,9 +80,6 @@ http://106661768617694422.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/694422.ts
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="http://imgfz.com/i/pd6rVnc.png" group-title="Entretenimiento",Las Estrellas
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/180
 
-#EXTINF:-1 tvg-id="Film & Arts" tvg-logo="https://iili.io/JKg8iQt.png" group-title="Entretenimiento",Film & Arts
-http://204.157.251.250:8000/play/a06m/index.m3u8
-
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://iili.io/JKgSqaj.png" group-title="Entretenimiento",E! Entertainment Television
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4186
 
@@ -98,23 +92,17 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4269
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://iili.io/JKgUzJf.png" group-title="Entretenimiento",Canal Cocina
 http://106661768617321149.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/321149.ts
 
-#EXTINF:-1 tvg-id="TruTV" tvg-logo="https://iili.io/JKgUWzB.png" group-title="Entretenimiento",TruTV
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/264
-
-#EXTINF:-1 tvg-id="MTV" tvg-logo="https://iili.io/JKgUgzN.png" group-title="Entretenimiento",MTV
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/50
-
 #EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://iili.io/JKggfmQ.png" group-title="Entretenimiento",Hola TV
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/179
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://iili.io/JKgrNHJ.png" group-title="Entretenimiento",A&E
+http://nxt.plus:8080/magyfs3S/magyfs3S/58123
 
 #EXTINF:-1 tvg-id="Home Garden TV" tvg-logo="https://iili.io/JKggv4e.png" group-title="Entretenimiento",Home Garden TV
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3935
 
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://iili.io/JKgZKv9.png" group-title="Entretenimiento",TLC
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/45
-
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://iili.io/JKgrNHJ.png" group-title="Entretenimiento",A&E
-http://nxt.plus:8080/magyfs3S/magyfs3S/58123
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/31
@@ -125,50 +113,20 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/32
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="Peliculas - Series",TNT
 http://nxt.plus:8080/richard10/202135/25213
 
-#EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://iili.io/JKgQv71.png" group-title="Peliculas - Series",TNT Series
-http://23.131.184.114:80/Orlando/1234/592391
-
-#EXTINF:-1 tvg-id="I Sat" tvg-logo="https://i.postimg.cc/WbX9xjhC/i-sat.png" group-title="Peliculas - Series",I Sat
-http://23.131.184.114:80/Orlando/1234/602703
-
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://iili.io/JKgQQ2I.png" group-title="Peliculas - Series",Space
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/258
 
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="Peliculas - Series",Universal TV
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/33
 
-#EXTINF:-1 tvg-id="Universal Cinema" tvg-logo="https://i.postimg.cc/50s16Tsr/universal-cinema.png" group-title="Peliculas - Series",Universal Cinema
-http://45.5.117.182:8000/play/a0jz/index.m3u8
-
-#EXTINF:-1 tvg-id="Universal Comedy" tvg-logo="https://iili.io/JKgZjun.png" group-title="Peliculas - Series",Universal Comedy
-http://jmrk.xyz:8080/numberscruncher9@aol.com/VxVLkt7DO0/578549
-
-#EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://iili.io/JKgZg87.png" group-title="Peliculas - Series",Universal Crime
-http://190.149.66.90:4000/play/a03w/index.m3u8
-
-#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://i.postimg.cc/2yLJrKMh/universal-premiere.png" group-title="Peliculas - Series",Universal Premiere
-http://latinoamericatv.vip:8080/usuariocanales737/nKPxbFW46jgM/111419
-
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://iili.io/JKgZbcB.png" group-title="Peliculas - Series",Cinemax
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/28
-
-#EXTINF:-1 tvg-id="USA" tvg-logo="https://iili.io/JKgtxNn.png" group-title="Peliculas - Series",USA
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/189
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://iili.io/JKgt4lp.png" group-title="Peliculas - Series",AMC
 http://23.131.184.114:80/Orlando/1234/602574
 
-#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="https://i.postimg.cc/85fQzcr7/sony-channel.png" group-title="Peliculas - Series",Sony Channel
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/34
-
-#EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://iili.io/JKgD9g2.md.png" group-title="Peliculas - Series",Sony Movies
-http://latinoamericatv.vip:8080/usuariocanales737/nKPxbFW46jgM/251046
-
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://iili.io/JKgD7LJ.png" group-title="Peliculas - Series",Studio Universal
 http://23.131.184.114:80/Orlando/1234/602736
-
-#EXTINF:-1 tvg-id="FX" tvg-logo="https://iili.io/JKgDE7I.png" group-title="Peliculas - Series",FX
-http://190.61.55.186:1010/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="Peliculas - Series",HBO
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/173
@@ -187,15 +145,6 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/27
 
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://iili.io/JKgbFYN.png" group-title="Peliculas - Series",Paramount
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/185
-
-#EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://i.postimg.cc/k5Z0Pd31/cine-latino-azul.png" group-title="Peliculas - Series",Cine Latino
-http://204.157.251.250:8000/play/a08n/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://iili.io/JKgbNZg.png" group-title="Peliculas - Series",AXN
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/38
-
-#EXTINF:-1 tvg-id="TCM" tvg-logo="https://iili.io/JKgb49I.png" group-title="Peliculas - Series",TCM
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/36
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://iili.io/JKgbDF4.png" group-title="Peliculas - Series",Los Simpson
 http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/129313
