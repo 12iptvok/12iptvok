@@ -77,9 +77,6 @@ http://nxt.plus:8080/edertp/264011/52885
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
 http://106661768617694422.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/694422.ts
 
-#EXTINF:-1 tvg-id="Viajar" tvg-logo="https://i.postimg.cc/NfqHrVjN/viajar.png" group-title="Entretenimiento",Viajar
-https://stmv5.livecastv.com/manualtman/manualtman/chunklist_w1401505560.m3u8
-
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="http://imgfz.com/i/pd6rVnc.png" group-title="Entretenimiento",Las Estrellas
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/180
 
