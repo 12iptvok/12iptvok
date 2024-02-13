@@ -30,7 +30,7 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0084
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="RT" tvg-logo="http://imgfz.com/i/C5Ns27u.png" group-title="Noticias",RT
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="http://imgfz.com/i/xnMeKG6.png" group-title="Noticias",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -165,7 +165,7 @@ http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/132285
 http://axr.life:80/622629/248853/1406113
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium B
-http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/145417
+http://23.131.184.114:80/Orlando/1234/589449
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN
 http://23.131.184.114:80/Orlando/1234/589441
