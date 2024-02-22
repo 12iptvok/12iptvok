@@ -6,7 +6,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
 http://23.131.184.114:80/Orlando/1234/589371
 
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="http://imgfz.com/i/oWBtfnG.png" group-title="Noticias",Canal 9
-http://23.131.184.114:80/Orlando/1234/589374
+http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29406.ts
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="http://imgfz.com/i/cRg69o4.png" group-title="Noticias",Canal 13
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
