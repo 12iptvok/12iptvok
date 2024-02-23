@@ -45,10 +45,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
 http://106661768617617022.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/617022.ts
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/222
+http://38.43.132.86:8000/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://iili.io/JKgE2BS.png" group-title="Documentales",Discovery World
-http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/2814
+http://38.43.132.86:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://iili.io/JKgWGNs.png" group-title="Documentales",Investigation Discovery
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/41
