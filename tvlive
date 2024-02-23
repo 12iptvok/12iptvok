@@ -3,7 +3,7 @@
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="http://imgfz.com/i/zbWlqtc.png" group-title="Noticias",America TV
-http://23.131.184.114:80/Orlando/1234/589371
+http://45.5.151.151:8000/play/a0c7/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="http://imgfz.com/i/oWBtfnG.png" group-title="Noticias",Canal 9
 http://abcnew.site:8880/3ca04243n09/q3rf323ds/49741
