@@ -60,10 +60,10 @@ http://106661768617386495.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/386495.ts
 http://190.149.66.90:4000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-logo="https://iili.io/JKghTCv.png" group-title="Documentales",History
-http://23.131.184.114:80/Orlando/1234/602850
+http://rasaiptv.com:8080/CarlosD/CarlosD/53481
 
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://iili.io/JKgjZ57.png" group-title="Documentales",History 2
-http://23.131.184.114:80/Orlando/1234/591007
+http://rasaiptv.com:8080/CarlosD/CarlosD/53483
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://iili.io/JKgwQEv.png" group-title="Documentales",National Geographic
 http://38.43.132.86:8000/play/a02i/index.m3u8
@@ -126,7 +126,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/28
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/209
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://iili.io/JKgD7LJ.png" group-title="Peliculas - Series",Studio Universal
-http://23.131.184.114:80/Orlando/1234/602736
+http://rasaiptv.com:8080/CarlosD/CarlosD/312827
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="Peliculas - Series",HBO
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/173
@@ -150,10 +150,10 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/185
 http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/129313
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
-http://23.131.184.114:80/Orlando/1234/589464
+http://rasaiptv.com:8080/CarlosD/CarlosD/339647
 
 #EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports B
-http://rasaiptv.com:8080/CarlosD/CarlosD/339647
+http://152.89.62.76:8880/1msk040003/73378271/49975
 
 #EXTINF:-1 tvg-id="TNT Sports A" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports A
 http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/25121
@@ -162,10 +162,10 @@ http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/25121
 http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/132285
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium A
-http://23.131.184.114:80/Orlando/1234/589449
+http://panthercanary.com:8080/tatofernandez/yMH3eVzaCrRG/70152
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium B
-http://panthercanary.com:8080/tatofernandez/yMH3eVzaCrRG/70152
+http://152.89.62.76:8880/1msk040003/73378271/49718
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN
 http://152.89.62.76:8880/1msk040003/73378271/49721
@@ -174,13 +174,13 @@ http://152.89.62.76:8880/1msk040003/73378271/49721
 http://nxt.plus:8080/patriciorivas/n94Pxh7a4ewZ/81343
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Deportes",ESPN 3
-http://23.131.184.114:80/Orlando/1234/589446
+http://startv365.com:80/5301246455/1849687755/162699
 
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports
-http://23.131.184.114:80/Orlando/1234/589452
+http://nxt.plus:8080/richard10/202135/166747
 
 #EXTINF:-1 tvg-id="DIRECTV Sports" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports
-http://23.131.184.114:80/Orlando/1234/589318
+http://fast-iptv.xyz:8080/live/tsvNgWxNeg/rRxs2FesBF/29444.ts
 
 #EXTINF:-1 tvg-id="MusicTop" tvg-logo="https://i.postimg.cc/xTS4gSqF/musictop.png" group-title="Musica",MusicTop
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
