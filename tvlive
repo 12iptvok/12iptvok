@@ -110,7 +110,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/31
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://i.postimg.cc/8CjL34Qc/warner-tv.png" group-title="Peliculas - Series",Warner
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/267
 
-#EXTINF:-1 tvg-id="CINE.AR" tvg-logo="http://imgfz.com/i/CAbZaQJ.png" group-title="Peliculas - Series",CINE.AR
+#EXTINF:-1 tvg-id="CINE AR" tvg-logo="http://imgfz.com/i/CAbZaQJ.png" group-title="Peliculas - Series",CINE AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="Peliculas - Series",TNT
