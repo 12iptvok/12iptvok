@@ -42,7 +42,7 @@ https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://imgfz.com/i/09UWrie.png" group-title="Documentales",Animal Planet
-http://106661768617617022.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/617022.ts
+http://38.43.132.86:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
 http://38.43.132.86:8000/play/a033/index.m3u8
@@ -54,7 +54,7 @@ http://38.43.132.86:8000/play/a02j/index.m3u8
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/41
 
 #EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="Documentales",AMC Crime
-http://106661768617386495.ofip231209.xyz:80/play/ja821704/eXf8pYFAky/386495.ts
+http://febrenuevo.nl:2082/live/JUJA/Zpq4jJ4B6mZc/178194.m3u8
 
 #EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://iili.io/JKgZg87.png" group-title="Documentales",Universal Crime
 http://190.149.66.90:4000/play/a03w/index.m3u8
