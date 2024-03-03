@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/259g3rvY/telefe.png" group-title="Noticias",Telefe
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/3559
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1709580562~acl=%2f*~data=hdntl~hmac=353e5593665c8fbc781ebe60ee3a6604b7c2b2515585242dbf45df0d5c9ae165/master-mtlf1.m3u8
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.postimg.cc/BQC77Hpb/america-tv.png" group-title="Noticias",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
