@@ -5,8 +5,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
 #EXTINF:-1 tvg-id="America TV" tvg-logo="http://imgfz.com/i/zbWlqtc.png" group-title="Noticias",America TV
 http://45.5.151.151:8000/play/a0c7/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 9" tvg-logo="http://imgfz.com/i/oWBtfnG.png" group-title="Noticias",Canal 9 
-https://usher.ttvnw.net/api/channel/hls/elnuevevivo.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=109.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=9849378&platform=web&play_session_id=36f19c95481506eefc7e9fe2649e6fff&player_backend=mediaplayer&player_version=1.25.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=804dbb6fb77b33a43a0e8c917b8be2179006bea4&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnuevevivo%22%2C%22channel_id%22%3A1004061179%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%224244fcfdc9bc007f%22%2C%22expires%22%3A1709579907%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.209.100.132%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+#EXTINF:-1 tvg-id="Canal 9" tvg-logo="http://imgfz.com/i/oWBtfnG.png" group-title="Noticias",Canal 9
+https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="http://imgfz.com/i/cRg69o4.png" group-title="Noticias",Canal 13
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
