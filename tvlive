@@ -84,10 +84,10 @@ http://38.43.132.86:8000/play/a031/index.m3u8
 https://premierchile.shop:8443/992255488tv/1122021/54508
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://iili.io/JKgSGnt.png" group-title="Entretenimiento",Lifetime
-https://premierchile.shop:8443/992255488tv/1122021/608
+http://emuligl.info:8080/live/DMOIPTVJUAN0610/jSgMDHkrntcb/46.m3u8
 
 #EXTINF:-1 tvg-id="El Gourmet" tvg-logo="https://iili.io/JKgSQDB.png" group-title="Entretenimiento",El Gourmet
-https://premierchile.shop:8443/992255488tv/1122021/598
+http://emuligl.info:8080/live/DMOIPTVJUAN0610/jSgMDHkrntcb/409.m3u8
 
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://iili.io/JKgUzJf.png" group-title="Entretenimiento",Canal Cocina
 http://abcnew.site:8880/DAANM168/fnvbxK5eF8/2576
