@@ -6,7 +6,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
 http://45.5.151.151:8000/play/a0c7/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="http://imgfz.com/i/oWBtfnG.png" group-title="Noticias",Canal 9
-https://ythls-v2.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0083
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="http://imgfz.com/i/cRg69o4.png" group-title="Noticias",Canal 13
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
