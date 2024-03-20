@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="http://imgfz.com/i/QGrfZet.png" group-title="Noticias",Telefe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="http://imgfz.com/i/zbWlqtc.png" group-title="Noticias",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="http://imgfz.com/i/oWBtfnG.png" group-title="Noticias",Canal 9
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0083
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0084
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="http://imgfz.com/i/cRg69o4.png" group-title="Noticias",Canal 13
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
 
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="http://imgfz.com/i/lRIVuop.png" group-title="Noticias",Television Publica
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
 
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica TV
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0068
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0070
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0071
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -39,7 +39,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="Documentales",Encuentro
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://imgfz.com/i/09UWrie.png" group-title="Documentales",Animal Planet
 http://38.43.132.86:8000/play/a02v/index.m3u8
@@ -111,7 +111,7 @@ http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/51383
 http://abcnew.site:8880/3ca7043n04/asfde32e2/49971
 
 #EXTINF:-1 tvg-id="CINE AR" tvg-logo="http://imgfz.com/i/CAbZaQJ.png" group-title="Peliculas - Series",CINE AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0060
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="Peliculas - Series",TNT
 https://premierchile.shop:8443/992255488tv/1122021/24852
