@@ -140,8 +140,11 @@ http://nxt.plus:8080/Aliancista/914830/11476
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium B
 http://king4k.tv:80/b9d4aaebf7/29f40f6629/610510
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
 http://nxt.plus:8080/Aliancista/914830/16497
+
+#EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
+http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/2823
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2
 http://nxt.plus:8080/Aliancista/914830/81343
@@ -153,7 +156,7 @@ http://nxt.plus:8080/richard10/202135/81344
 http://nxt.plus:8080/richard10/202135/166747
 
 #EXTINF:-1 tvg-id="DIRECTV Sports" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports
-http://abcnew.site:8880/D12m2692/94245219/49731
+http://hmtvhd.life:80/166922174586657/key5f0e5x0L/197957.ts
 
 #EXTINF:-1 tvg-id="MusicTop" tvg-logo="https://i.postimg.cc/xTS4gSqF/musictop.png" group-title="Musica",MusicTop
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0042
