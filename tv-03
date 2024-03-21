@@ -98,9 +98,6 @@ http://emuligl.info:8080/live/DMOIPTVJUAN0610/jSgMDHkrntcb/410.m3u8
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
 http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/51383
 
-#EXTINF:-1 tvg-id="Warner" tvg-logo="https://i.postimg.cc/8CjL34Qc/warner-tv.png" group-title="Peliculas - Series",Warner
-http://abcnew.site:8880/3ca7043n04/asfde32e2/49971
-
 #EXTINF:-1 tvg-id="CINE AR" tvg-logo="http://imgfz.com/i/CAbZaQJ.png" group-title="Peliculas - Series",CINE AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
 
@@ -113,14 +110,8 @@ http://wabot.win:8080/Rocky123/Rocky123/542821
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="Peliculas - Series",Universal TV
 http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/49973
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://iili.io/JKgZbcB.png" group-title="Peliculas - Series",Cinemax
-https://premierchile.shop:8443/992255488tv/1122021/179
-
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.postimg.cc/RZGnvYvQ/amc-2024.png" group-title="Peliculas - Series",AMC
 http://abcnew.site:8880/3ca7043n04/asfde32e2/49750
-
-#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://iili.io/JKgD7LJ.png" group-title="Peliculas - Series",Studio Universal
-http://38.43.132.86:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="Peliculas - Series",HBO
 http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/49705
@@ -131,20 +122,8 @@ http://abcnew.site:8880/3ca7043n04/asfde32e2/49704
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://i.postimg.cc/sx9gwBX9/hboplus.png" group-title="Peliculas - Series",HBO Plus
 https://premierchile.shop:8443/992255488tv/1122021/144
 
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.postimg.cc/cL7Jd9Gp/hbo-xtreme.png" group-title="Peliculas - Series",HBO Xtreme
-http://wabot.win:8080/Rocky123/Rocky123/542868
-
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://iili.io/JKgDyQa.png" group-title="Peliculas - Series",Cinecanal
 http://abcnew.site:8880/3ca7043n04/asfde32e2/49739
-
-#EXTINF:-1 tvg-id="Paramount" tvg-logo="https://iili.io/JKgbFYN.png" group-title="Peliculas - Series",Paramount
-https://premierchile.shop:8443/992255488tv/1122021/191
-
-#EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://iili.io/JKgbDF4.png" group-title="Peliculas - Series",Los Simpson
-http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/129313
-
-#EXTINF:-1 tvg-id="ALF" tvg-logo="https://i.postimg.cc/SxFgwjkZ/alf.png" group-title="Peliculas - Series",ALF
-https://ythlsgo.onrender.com/video/tl9W9Ajjsjs.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
