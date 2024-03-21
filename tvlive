@@ -105,16 +105,16 @@ http://wabot.win:8080/Rocky123/Rocky123/542821
 http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/49973
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.postimg.cc/RZGnvYvQ/amc-2024.png" group-title="Peliculas - Series",AMC
-http://abcnew.site:8880/3ca7043n04/asfde32e2/49750
+http://38.43.132.86:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="Peliculas - Series",HBO
 http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/49705
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.postimg.cc/Tw5yqYgC/hbo2.png" group-title="Peliculas - Series",HBO 2
-http://abcnew.site:8880/3ca7043n04/asfde32e2/49704
+http://181.78.208.237:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://i.postimg.cc/sx9gwBX9/hboplus.png" group-title="Peliculas - Series",HBO Plus
-https://premierchile.shop:8443/992255488tv/1122021/144
+http://38.43.132.86:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://iili.io/JKgDyQa.png" group-title="Peliculas - Series",Cinecanal
 http://abcnew.site:8880/3ca7043n04/asfde32e2/49739
