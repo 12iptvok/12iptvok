@@ -47,9 +47,6 @@ http://38.43.132.86:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
 http://38.43.132.86:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://iili.io/JKgE2BS.png" group-title="Documentales",Discovery World
-http://38.43.132.86:8000/play/a02j/index.m3u8
-
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://iili.io/JKgWGNs.png" group-title="Documentales",Investigation Discovery
 https://premierchile.shop:8443/992255488tv/1122021/437
 
@@ -67,9 +64,6 @@ http://38.43.132.86:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://iili.io/JKgwQEv.png" group-title="Documentales",National Geographic
 http://38.43.132.86:8000/play/a02i/index.m3u8
-
-#EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://iili.io/JKgNf3l.md.png" group-title="Documentales",Love Nature
-https://premierchile.shop:8443/992255488tv/1122021/451
 
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="https://iili.io/JKgNuGj.png" group-title="Documentales",Odisea
 http://nxt.plus:8080/edertp/264011/52885
