@@ -141,7 +141,7 @@ http://spaticplas.org:8080/tvpremiumcol/fs3XtkWUVXpj/218746
 http://nxt.plus:8080/Aliancista/914830/16497
 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
-http://novared.pro:8080/UserUr45/uCPG5zTv/339651
+http://45.225.104.138:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2
 http://nxt.plus:8080/Aliancista/914830/81343
@@ -152,7 +152,13 @@ http://nxt.plus:8080/richard10/202135/81344
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports
 http://nxt.plus:8080/richard10/202135/166747
 
-#EXTINF:-1 tvg-id="DIRECTV Sports" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports
+#EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports A
+http://vipfortic.top:8080/VIP011169314389916/91693143899/4748
+
+#EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
+http://nxt.plus:8080/Aliancista/914830/207338
+
+#EXTINF:-1 tvg-id="DIRECTV Sports C" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports C
 http://abcnew.site:8880/3ca04243n09/q3rf323ds/49731
 
 #EXTINF:-1 tvg-id="MusicTop" tvg-logo="https://i.postimg.cc/xTS4gSqF/musictop.png" group-title="Musica",MusicTop
