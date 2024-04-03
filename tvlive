@@ -48,7 +48,7 @@ http://38.43.132.86:8000/play/a02v/index.m3u8
 http://38.43.132.86:8000/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://iili.io/JKgWGNs.png" group-title="Documentales",Investigation Discovery
-https://premierchile.shop:8443/992255488tv/1122021/437
+http://181.78.64.71:16123/play/ch23
 
 #EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="Documentales",AMC Crime
 http://rasaiptv.com:8080/Guolee9080/Juan9080/110266
@@ -57,7 +57,7 @@ http://rasaiptv.com:8080/Guolee9080/Juan9080/110266
 http://190.149.66.90:4000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-logo="https://iili.io/JKghTCv.png" group-title="Documentales",History
-http://49401360759776700.ofe0229.xyz:80/play/vi24198/JxbaGdR5Bq/776700.ts
+http://190.61.55.186:1010/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://iili.io/JKgjZ57.png" group-title="Documentales",History 2
 http://38.43.132.86:8000/play/a034/index.m3u8
@@ -72,7 +72,7 @@ http://nxt.plus:8080/edertp/264011/52885
 http://200.125.170.120:8000/play/a04j
 
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://iili.io/JKgSqaj.png" group-title="Entretenimiento",E! Entertainment Television
-https://premierchile.shop:8443/992255488tv/1122021/54508
+http://190.61.55.186:1010/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://iili.io/JKgSGnt.png" group-title="Entretenimiento",Lifetime
 http://emuligl.info:8080/live/DMOIPTVJUAN0610/jSgMDHkrntcb/46.m3u8
