@@ -54,7 +54,7 @@ http://181.78.64.71:16123/play/ch23
 http://rasaiptv.com:8080/Guolee9080/Juan9080/110266
 
 #EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://iili.io/JKgZg87.png" group-title="Documentales",Universal Crime
-http://190.149.66.90:4000/play/a03w/index.m3u8
+http://181.78.105.146:6060/play/a03s
 
 #EXTINF:-1 tvg-id="History" tvg-logo="https://iili.io/JKghTCv.png" group-title="Documentales",History
 http://190.61.55.186:1010/play/a01e/index.m3u8
