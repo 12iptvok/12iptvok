@@ -69,7 +69,7 @@ http://38.43.132.86:8000/play/a02i/index.m3u8
 http://nxt.plus:8080/edertp/264011/52885
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
-http://200.125.170.120:8000/play/a04j
+http://190.94.186.135:9981/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://iili.io/JKgSqaj.png" group-title="Entretenimiento",E! Entertainment Television
 http://190.61.55.186:1010/play/a00v/index.m3u8
@@ -99,7 +99,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
 http://170.82.37.21:8000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://iili.io/JKgQQ2I.png" group-title="Peliculas - Series",Space
-http://wabot.win:8080/Rocky123/Rocky123/542821
+http://190.94.186.135:9981/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="Peliculas - Series",Universal TV
 http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/49973
