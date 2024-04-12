@@ -102,7 +102,7 @@ http://170.82.37.21:8000/play/a03a/index.m3u8
 http://168.181.122.234:8000/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="Peliculas - Series",Universal TV
-hhttp://177.93.46.163:8000/play/a008
+http://177.93.46.163:8000/play/a008
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.postimg.cc/RZGnvYvQ/amc-2024.png" group-title="Peliculas - Series",AMC
 http://38.43.132.86:8000/play/a02l/index.m3u8
