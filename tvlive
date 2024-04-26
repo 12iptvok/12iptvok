@@ -144,10 +144,10 @@ http://nxt.plus:8080/Aliancista/914830/16497
 http://190.94.186.135:9981/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
-http://190.94.186.135:9981/play/a039/index.m3u8
+http://nxt.plus:8080/Aliancista/914830/81343
 
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 B
-http://nxt.plus:8080/Aliancista/914830/81343
+http://190.94.186.135:9981/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Deportes",ESPN 3
 http://190.94.186.135:9981/play/a03b/index.m3u8
