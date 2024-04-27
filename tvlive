@@ -182,6 +182,9 @@ https://cdn-1.nxplay.com.br/Cult_TK/index.m3u8
 #EXTINF:-1 tvg-id="E Music Rock" tvg-logo="https://iili.io/JKrAQFj.png" group-title="Musica",E Music Rock
 https://cdn-1.nxplay.com.br/SCH_TK/index.m3u8
 
+#EXTINF:-1 tvg-name="El secreto de Adaline (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg" group-title="Cine",El secreto de Adaline (2015)
+http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/144356.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="El secreto de Adaline (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg" group-title="Cine",El secreto de Adaline (2015)
 http://00322.xyz:8000/movie/oosorio1000/KHW7SFTBRS/144356.mp4
 
