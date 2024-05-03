@@ -185,9 +185,6 @@ https://cdn-1.nxplay.com.br/SCH_TK/index.m3u8
 #EXTINF:-1 tvg-id="Cine Drama" tvg-logo="https://i.postimg.cc/2ymk18D6/pluto-cine-drama.png" group-title="Pluto TV",Cine Drama
 https://is.gd/iHB1q1
 
-#EXTINF:-1 channel-id="pluto-5dcddfcb229eff00091b6bdf" tvg-id="5dcddfcb229eff00091b6bdf" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" tvg-chno="36" group-title="Pluto TV", Pluto TV Cine Drama
-https://r.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
-
 #EXTINF:-1 tvg-id="Cine Comedia" tvg-logo="https://i.postimg.cc/BbgqH9SC/pluto-cine-comedia.png" group-title="Pluto TV",Cine Comedia
 https://is.gd/NPFnNS
 
