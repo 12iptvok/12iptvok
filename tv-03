@@ -93,7 +93,7 @@ http://emuligl.info:8080/live/DMOIPTVJUAN0610/jSgMDHkrntcb/410.m3u8
 http://179.189.222.226:16123/play/ch07
 
 #EXTINF:-1 tvg-id="CINE AR" tvg-logo="http://imgfz.com/i/CAbZaQJ.png" group-title="Peliculas - Series",CINE AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="Peliculas - Series",TNT
 http://170.82.37.21:8000/play/a03a/index.m3u8
