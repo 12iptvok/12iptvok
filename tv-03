@@ -24,7 +24,7 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="http://imgfz.com/i/f2n4z0u.png" group-title="Noticias",A24
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/9c01a311-0f75-4ef5-a422-804ebabca4a9:SCL/master.m3u8
+https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="http://imgfz.com/i/XaER4GO.png" group-title="Noticias",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
