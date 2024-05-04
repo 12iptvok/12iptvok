@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="http://imgfz.com/i/QGrfZet.png" group-title="Noticias",Telefe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0073
+https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="http://imgfz.com/i/zbWlqtc.png" group-title="Noticias",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -9,22 +9,22 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 http://190.94.186.135:9981/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="http://imgfz.com/i/cRg69o4.png" group-title="Noticias",Canal 13
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="http://imgfz.com/i/lRIVuop.png" group-title="Noticias",Television Publica
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0060
+https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0062
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="http://imgfz.com/i/f2n4z0u.png" group-title="Noticias",A24
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0076
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/9c01a311-0f75-4ef5-a422-804ebabca4a9:SCL/master.m3u8
 
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="http://imgfz.com/i/XaER4GO.png" group-title="Noticias",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -39,7 +39,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="Documentales",Encuentro
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://imgfz.com/i/09UWrie.png" group-title="Documentales",Animal Planet
 http://190.61.55.186:1010/play/a00o/index.m3u8
@@ -162,7 +162,7 @@ http://mohdtv.com:8880/voby4880/77889364/49731
 http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/135642
 
 #EXTINF:-1 tvg-id="MusicTop" tvg-logo="https://i.postimg.cc/xTS4gSqF/musictop.png" group-title="Musica",MusicTop
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0038
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0042
 
 #EXTINF:-1 tvg-id="E Music Black" tvg-logo="https://iili.io/JKruLkN.png" group-title="Musica",E Music Black
 https://cdn-1.nxplay.com.br/MEGA_TK/index.m3u8
