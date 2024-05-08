@@ -42,10 +42,10 @@ https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://imgfz.com/i/09UWrie.png" group-title="Documentales",Animal Planet
-http://190.94.186.135:9981/play/a04e/index.m3u8
+http://168.181.122.234:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
-http://190.94.186.135:9981/play/a04d/index.m3u8
+http://168.181.122.234:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://iili.io/JKgWGNs.png" group-title="Documentales",Investigation Discovery
 http://179.189.222.226:16123/play/ch23
@@ -81,7 +81,7 @@ http://emuligl.info:8080/live/DMOIPTVJUAN0610/jSgMDHkrntcb/46.m3u8
 http://emuligl.info:8080/live/DMOIPTVJUAN0610/jSgMDHkrntcb/409.m3u8
 
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://iili.io/JKgUzJf.png" group-title="Entretenimiento",Canal Cocina
-http://newlife3.wanicelife.com:8880/29us05173n04/asdf23e32/2576
+http://vipmegah.top:8080/UlisesFebr24/VGbcEJ5BXRK8/742
 
 #EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://iili.io/JKggfmQ.png" group-title="Entretenimiento",Hola TV
 http://170.82.37.21:8000/play/a03d/index.m3u8
