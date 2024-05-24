@@ -141,10 +141,10 @@ http://tv.nousiptv.com:8080/BetoPatriciaNWK/9kXf8pOqsk/4193
 http://tv.nousiptv.com:8080/BetoPatriciaNWK/9kXf8pOqsk/1090736
 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
-http://157.245.117.238:8000/play/a0tb
+http://38.56.118.88:4000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
-http://157.245.117.238:8000/play/a0t3
+http://45.179.164.30:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 B
 http://nxt.plus:8080/richard10/202135/81343
