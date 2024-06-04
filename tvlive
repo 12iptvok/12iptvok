@@ -164,6 +164,9 @@ http://00322.xyz:8000/impejol2022/VJIUZWQ5G9/135642
 #EXTINF:-1 tvg-id="MusicTop" tvg-logo="https://i.postimg.cc/xTS4gSqF/musictop.png" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
+#EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.postimg.cc/X72YMqHQ/retro-plus.png" group-title="Musica",Retro Plus
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="E Music Black" tvg-logo="https://iili.io/JKruLkN.png" group-title="Musica",E Music Black
 https://cdn-1.nxplay.com.br/MEGA_TK/index.m3u8
 
