@@ -180,7 +180,7 @@ https://cdn-1.nxplay.com.br/CLASSICHITS_TK/index.m3u8
 https://cdn-1.nxplay.com.br/AMERICOLATINO_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="E Music Pop" tvg-logo="https://iili.io/JKrAGvp.png" group-title="Musica",E Music Pop
-https://cdn-1.nxplay.com.br/Cult_TK/index.m3u8
+https://cdn-1.nxplay.com.br/Cult_TK/index.m3u8#t=0.1
 
 #EXTINF:-1 tvg-id="E Music Rock" tvg-logo="https://iili.io/JKrAQFj.png" group-title="Musica",E Music Rock
 https://cdn-1.nxplay.com.br/SCH_TK/index.m3u8
