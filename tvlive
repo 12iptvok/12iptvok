@@ -18,7 +18,7 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0074
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -69,7 +69,7 @@ http://179.189.222.226:16123/play/ch30
 http://30057889646321390.ofdapr412.xyz:80/play/fe1125189/CpfSYnD9xa/321390.ts
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
-http://driptvs.com:2095/King200conxx/355sgdhh/42106
+http://170.82.37.21:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://iili.io/JKgSqaj.png" group-title="Entretenimiento",E! Entertainment Television
 http://181.191.140.2:8000/play/a0h7/index.m3u8
@@ -141,7 +141,7 @@ http://tv.nousiptv.com:8080/BetoPatriciaNWK/9kXf8pOqsk/4193
 http://tv.nousiptv.com:8080/BetoPatriciaNWK/9kXf8pOqsk/1090736
 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
-http://38.56.118.88:4000/play/a00j/index.m3u8
+http://vo01.mohdtv.com:8880/voby0446/65117222/49721
 
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
 http://45.179.164.30:8000/play/a055/index.m3u8
