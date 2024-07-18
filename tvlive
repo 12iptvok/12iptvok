@@ -143,12 +143,6 @@ http://tv.nousiptv.com:8080/BetoPatriciaNWK/9kXf8pOqsk/1090736
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
 http://vo01.mohdtv.com:8880/voby0446/65117222/49721
 
-#EXTINF:-1 tvg-id="ESPN C" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN C
-http://45.5.151.151:8000/play/a0o0/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN D" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN D
-http://driptvs.com:2095/King200conxx/355sgdhh/11573
-
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
 http://pe.shortgod.com/wow/play.php?id=18
 
