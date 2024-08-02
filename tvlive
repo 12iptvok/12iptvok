@@ -39,7 +39,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="Documentales",Encuentro
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/30694
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://imgfz.com/i/09UWrie.png" group-title="Documentales",Animal Planet
 http://168.181.122.234:8000/play/a00z/index.m3u8
@@ -93,7 +93,7 @@ http://190.60.40.37:12500/play/a01h/index.m3u8
 http://179.189.222.226:16123/play/ch07
 
 #EXTINF:-1 tvg-id="CINE AR" tvg-logo="http://imgfz.com/i/CAbZaQJ.png" group-title="Peliculas - Series",CINE AR
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+http://fortv.cc:8080/N0QaDD/625713/164871
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="Peliculas - Series",TNT
 http://170.82.37.21:8000/play/a03a/index.m3u8
