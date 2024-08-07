@@ -89,6 +89,9 @@ http://181.78.105.146:8800/play/a063
 #EXTINF:-1 tvg-id="Home Garden TV" tvg-logo="https://iili.io/JKggv4e.png" group-title="Entretenimiento",Home Garden TV
 http://190.60.40.37:12500/play/a01h/index.m3u8
 
+#EXTINF:-1 tvg-id="FreeTV Saber Mas" tvg-logo="https://i.postimg.cc/wvMMLZWy/freetv-sabermas.png" group-title="Entretenimiento",FreeTV Saber Mas
+https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
 http://179.189.222.226:16123/play/ch07
 
