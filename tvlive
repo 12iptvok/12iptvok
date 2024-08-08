@@ -170,6 +170,9 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.postimg.cc/X72YMqHQ/retro-plus.png" group-title="Musica",Retro Plus
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="El Canal de la Musica" tvg-logo="https://i.postimg.cc/26rnY7F8/cm-canal-musica.png" group-title="Musica",El Canal de la Musica
+https://g2.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+
 #EXTINF:-1 tvg-id="E Music Black" tvg-logo="https://iili.io/JKruLkN.png" group-title="Musica",E Music Black
 https://cdn-1.nxplay.com.br/MEGA_TK/index.m3u8
 
