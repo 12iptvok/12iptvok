@@ -29,6 +29,9 @@ https://film.verpelicula.org/film/541134/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La cabeza de la araña (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eNrWoqKwpvrH8N4gajZsw0yUee.jpg" group-title="Cine: Acción - Crimen",La cabeza de la araña (2022)
 https://film.verpelicula.org/film/615469/film.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Nightshade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q0txn1vpJ218nxDLgj0e0rhYYE.jpg" group-title="Cine: Acción - Crimen",Nightshade (2022)
+https://film.verpelicula.org/film/922562/film.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Dogman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/artsSiJleYkiQi3EbLXKXa48gUt.jpg" group-title="Cine: Comedia - Drama",Dogman (2023)
@@ -113,6 +116,12 @@ https://sp.rmbl.ws/s8/2/o/i/b/k/oibkm.aaa.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Hay algo mal con los niños (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Amljhv1AoWvudjwOKurDz8JL2Ej.jpg" group-title="Cine: Suspenso - Terror",Hay algo mal con los niños (2023)
 https://film.verpelicula.org/film/899579/film.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Antlers: Criatura oscura (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5KAhUn1Ml6mZHbMMvWxj1cQUkp.jpg" group-title="Cine: Suspenso - Terror",Antlers: Criatura oscura (2021)
+https://film.verpelicula.org/film/516329/film.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Eli (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg" group-title="Cine: Suspenso - Terror",Eli (2019)
+https://film.verpelicula.org/film/483202/film.m3u8
 
 
 
