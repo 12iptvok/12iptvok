@@ -227,8 +227,11 @@ https://film.verpelicula.org/film/893364/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La última marea (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfNXYLxLyGCXd31KtmAgOw0HOaR.jpg" group-title="Cine: Aventura - Ciencia ficción",La última marea (2021)
 https://film.verpelicula.org/film/760873/film.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Jung_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg" group-title="Cine: Aventura - Ciencia ficción",Jung_E (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Jung E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg" group-title="Cine: Aventura - Ciencia ficción",Jung E (2023)
 https://ia801605.us.archive.org/6/items/conjuring-the-beyond_202304/JUNG_E.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Biónicos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nrNEM0wmWTBtepCoobvkHQqNKm.jpg" group-title="Cine: Aventura - Ciencia ficción",Biónicos (2024)
+https://film.verpelicula.org/film/1025463/film.m3u8
 
 
 
