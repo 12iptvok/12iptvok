@@ -124,6 +124,9 @@ https://film.verpelicula.org/film/253046/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baby Ruby (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKUzUIhtDZlzWMCPyq2xTRwnSGN.jpg" group-title="Cine: Comedia - Drama",Baby Ruby (2023)
 https://film.verpelicula.org/film/1008374/film.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="De las cenizas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DrjXLp8sLVJ5FFhgR1YbdtWrg1.jpg" group-title="Cine: Comedia - Drama",De las cenizas (2024)
+https://film.verpelicula.org/film/1221388/film.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="X (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg" group-title="Cine: Suspenso - Terror",X (2022)
