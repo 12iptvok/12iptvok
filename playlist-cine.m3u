@@ -74,6 +74,9 @@ https://film.verpelicula.org/film/420915/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Varg Veum (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8bJGOM0ppjK3KsBGaicDM10G8U.jpg" group-title="Cine: Acción - Crimen",Varg Veum (2012)
 https://film.verpelicula.org/film/111422/film.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="El negocio del dolor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32QnVNvl1XlORBW3CvWsM3byCOH.jpg" group-title="Cine: Acción - Crimen",El negocio del dolor (2023)
+https://sp.rmbl.ws/s8/2/v/j/N/T/vjNTn.aaa.mp4
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Dogman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/artsSiJleYkiQi3EbLXKXa48gUt.jpg" group-title="Cine: Comedia - Drama",Dogman (2023)
