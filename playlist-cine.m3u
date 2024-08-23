@@ -59,6 +59,9 @@ https://film.verpelicula.org/film/847153/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cazador urbano (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="Cine: Acción - Crimen",Cazador urbano (2024)
 https://film.verpelicula.org/film/1061990/film.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de Silencio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or4yvzAvMt3K8MHyvoB0cZcTWWy.jpg" group-title="Cine: Acción - Crimen",Cazador de Silencio (2020)
+https://s33.gamovideo.com:444/evap56hqdrnv3h2yuhj5v4s5pwfskr2hpvz3wrc6vh62uuxo7qpiyqzuuoza/v.mp4
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Dogman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/artsSiJleYkiQi3EbLXKXa48gUt.jpg" group-title="Cine: Comedia - Drama",Dogman (2023)
