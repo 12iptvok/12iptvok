@@ -62,6 +62,18 @@ https://film.verpelicula.org/film/1061990/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cazador de Silencio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or4yvzAvMt3K8MHyvoB0cZcTWWy.jpg" group-title="Cine: Acción - Crimen",Cazador de Silencio (2020)
 https://s33.gamovideo.com:444/evap56hqdrnv3h2yuhj5v4s5pwfskr2hpvz3wrc6vh62uuxo7qpiyqzuuoza/v.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="La vida de David Gale (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TuVaT4OyBwVk7cbMrGujvNQj6m.jpg" group-title="Cine: Acción - Crimen",La vida de David Gale (2003)
+https://film.verpelicula.org/film/11615/film.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Puedes confiar en mí (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXoZYWd2G7pBh8N8Cp5ZO5Sjzbl.jpg" group-title="Cine: Acción - Crimen",Puedes confiar en mí (2010)
+https://film.verpelicula.org/film/44945/film.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Yardie (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1c8aVdTwIMLR3LjypS6fRmvVCZ0.jpg" group-title="Cine: Acción - Crimen",Yardie (2018)
+https://film.verpelicula.org/film/420915/film.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Varg Veum (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8bJGOM0ppjK3KsBGaicDM10G8U.jpg" group-title="Cine: Acción - Crimen",Varg Veum (2012)
+https://film.verpelicula.org/film/111422/film.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Dogman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/artsSiJleYkiQi3EbLXKXa48gUt.jpg" group-title="Cine: Comedia - Drama",Dogman (2023)
