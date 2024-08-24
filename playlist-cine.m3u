@@ -166,6 +166,21 @@ https://film.verpelicula.org/film/1170000/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi ultimo deseo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oolrqW8HLBUFGyV0ZYt5xgqvszF.jpg" group-title="Cine: Comedia - Drama",Mi ultimo deseo (2022)
 https://film.verpelicula.org/film/1042816/film.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Incitadores (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGTB5uoODQwwTuj5TrCx2Bn6ES.jpg" group-title="Cine: Comedia - Drama",Incitadores (2024)
+https://sp.rmbl.ws/s8/2/6/l/s/k/6lskt.aaa.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Novata Espacial (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drXnPoX7sBlq2dqQ5zZkREiO6Hy.jpg" group-title="Cine: Comedia - Drama",Novata Espacial (2024)
+https://sp.rmbl.ws/s8/2/n/S/2/V/nS2Vs.aaa.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Welcome al norte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sA8HGHvbm9CqIJZfFmFZxgsOH6.jpg" group-title="Cine: Comedia - Drama",Welcome al norte (2023)
+https://ak2.rmbl.ws/s8/2/T/m/3/n/Tm3no.aaa.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Coda: Señales del corazón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9lvJIb60u0ckxiWG64s2DTHlp3.jpg" group-title="Cine: Comedia - Drama",Coda: Señales del corazón (2021)
+https://sp.rmbl.ws/s8/2/f/1/j/b/f1jbo.aaa.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Los campeones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wzkVn3iEEuY52TMJhLRseQPzdF.jpg" group-title="Cine: Comedia - Drama",Los campeones (2023)
+https://sp.rmbl.ws/s8/2/q/M/s/p/qMspm.aaa.mp4
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="X (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7YPhQKdcr6XB1kCUdS4tHifYWd.jpg" group-title="Cine: Suspenso - Terror",X (2022)
