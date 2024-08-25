@@ -32,6 +32,9 @@ https://film.verpelicula.org/film/615469/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nightshade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q0txn1vpJ218nxDLgj0e0rhYYE.jpg" group-title="Cine: Acción - Crimen",Nightshade (2022)
 https://film.verpelicula.org/film/922562/film.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="La huérfana (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NSeL6kdni2lIxkLGmNcGWuixar.jpg" group-title="Cine: Acción - Crimen",La huérfana (2009)
+https://cache015.peliscdn.online/newhls/bc4cb38e0c78888d9195ed5ef1a440d5/EP.0.1.v0.1708760397.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="La huérfana: El origen (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F3Rg9v4cuNhYtgSq5KRwnpNpGh.jpg" group-title="Cine: Acción - Crimen",La huérfana: El origen (2022)
 https://ia801605.us.archive.org/6/items/conjuring-the-beyond_202304/La%20hu%C3%A9rfana-%20Primer%20asesinato.mp4
 
@@ -288,14 +291,17 @@ https://film.verpelicula.org/film/1022128/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pearl (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg" group-title="Cine: Suspenso - Terror",Pearl (2022)
 https://sp.rmbl.ws/s8/2/7/B/I/O/7BIOs.aaa.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="La monja (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg" group-title="Cine: Suspenso - Terror",La monja (2018)
+https://sp.rmbl.ws/s8/2/4/D/I/A/4DIAm.aaa.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="La monja II (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg" group-title="Cine: Suspenso - Terror",La monja II (2023)
-https://cache020.peliscdn.online/newhls/2dcf71c725f003d389c0ea23b27a0af4/EP.0.1.v2.1708685618.720.m3u8
+https://sp.rmbl.ws/s8/2/H/n/X/h/HnXhn.aaa.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Saw X (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epN0x9JTf3esk1FO8DWkhlE4Ax5.jpg" group-title="Cine: Suspenso - Terror",Saw X (2023)
 https://cache006.peliscdn.online/newhls/3150bfd60e2c425d856c30d34ba8bc23/EP.0.0.v2.1708593199.1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Háblame (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg" group-title="Cine: Suspenso - Terror",Háblame (2023)
-https://cache010.peliscdn.online/newhls/2f2601249c1d9e727ab7a2c0905e0eb9/EP.0.0.v3.1708613688.1080.m3u8
+https://sp.rmbl.ws/s8/2/6/5/3/N/653Nm.aaa.mp4
 
 
 
