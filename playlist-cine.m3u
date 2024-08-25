@@ -32,12 +32,6 @@ https://film.verpelicula.org/film/615469/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nightshade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q0txn1vpJ218nxDLgj0e0rhYYE.jpg" group-title="Cine: Acción - Crimen",Nightshade (2022)
 https://film.verpelicula.org/film/922562/film.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="La huérfana (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NSeL6kdni2lIxkLGmNcGWuixar.jpg" group-title="Cine: Acción - Crimen",La huérfana (2009)
-https://cache015.peliscdn.online/newhls/bc4cb38e0c78888d9195ed5ef1a440d5/EP.0.1.v0.1708760397.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="La huérfana: El origen (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F3Rg9v4cuNhYtgSq5KRwnpNpGh.jpg" group-title="Cine: Acción - Crimen",La huérfana: El origen (2022)
-https://ia801605.us.archive.org/6/items/conjuring-the-beyond_202304/La%20hu%C3%A9rfana-%20Primer%20asesinato.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="En el lugar equivocado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWBXVkDXdXuY1zmkonDYTiO9Yi6.jpg" group-title="Cine: Acción - Crimen",En el lugar equivocado (2022)
 https://ia801605.us.archive.org/6/items/conjuring-the-beyond_202304/Wrong%20Place.mp4
 
@@ -302,6 +296,12 @@ https://cache006.peliscdn.online/newhls/3150bfd60e2c425d856c30d34ba8bc23/EP.0.0.
 
 #EXTINF:-1 tvg-id="" tvg-name="Háblame (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg" group-title="Cine: Suspenso - Terror",Háblame (2023)
 https://sp.rmbl.ws/s8/2/6/5/3/N/653Nm.aaa.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La huérfana (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NSeL6kdni2lIxkLGmNcGWuixar.jpg" group-title="Cine: Acción - Crimen",La huérfana (2009)
+https://cache015.peliscdn.online/newhls/bc4cb38e0c78888d9195ed5ef1a440d5/EP.0.1.v0.1708760397.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="La huérfana: El origen (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F3Rg9v4cuNhYtgSq5KRwnpNpGh.jpg" group-title="Cine: Acción - Crimen",La huérfana: El origen (2022)
+https://ia801605.us.archive.org/6/items/conjuring-the-beyond_202304/La%20hu%C3%A9rfana-%20Primer%20asesinato.mp4
 
 
 
