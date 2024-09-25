@@ -179,23 +179,11 @@ https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 #EXTINF:-1 tvg-id="El Canal de la Musica" tvg-logo="https://i.postimg.cc/26rnY7F8/cm-canal-musica.png" group-title="Musica",El Canal de la Musica
 https://g2.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="E Music Black" tvg-logo="https://iili.io/JKruLkN.png" group-title="Musica",E Music Black
-https://cdn-1.nxplay.com.br/MEGA_TK/index.m3u8
+#EXTINF:-1 tvg-id="RockTV" tvg-logo="https://i.postimg.cc/pTh69HVy/rocktv.png" group-title="Musica",RockTV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
-#EXTINF:-1 tvg-id="E Music Hits" tvg-logo="https://iili.io/JKrAfj9.png" group-title="Musica",E Music Hits
-https://cdn-1.nxplay.com.br/HITTS_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="E Music Classics" tvg-logo="https://iili.io/JKrAo4j.png" group-title="Musica",E Music Classics
-https://cdn-1.nxplay.com.br/CLASSICHITS_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="E Music Latino" tvg-logo="https://iili.io/JKrATvV.png" group-title="Musica",E Music Latino
-https://cdn-1.nxplay.com.br/AMERICOLATINO_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="E Music Pop" tvg-logo="https://iili.io/JKrAGvp.png" group-title="Musica",E Music Pop
-https://cdn-1.nxplay.com.br/Cult_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="E Music Rock" tvg-logo="https://iili.io/JKrAQFj.png" group-title="Musica",E Music Rock
-https://cdn-1.nxplay.com.br/SCH_TK/index.m3u8
+#EXTINF:-1 tvg-id="TopTV" tvg-logo="https://i.postimg.cc/Xq918kCb/toptv.png" group-title="Musica",TopTV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Drama" tvg-logo="https://i.postimg.cc/2ymk18D6/pluto-cine-drama.png" group-title="Pluto TV",Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
