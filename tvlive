@@ -185,7 +185,7 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="TopTV" tvg-logo="https://i.postimg.cc/Xq918kCb/toptv.png" group-title="Musica",TopTV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 
-#EXTINF:-1 tvg-id="Vclassic TV" tvg-logo="https://i.ibb.co/C0qDb9s/vclassictv.png" group-title="Musica",Vclassic TV
+#EXTINF:-1 tvg-id="Vclassic TV" tvg-logo="https://i.ibb.co/Jqq4Z79/vclassictv.png" group-title="Musica",Vclassic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine Drama" tvg-logo="https://i.postimg.cc/2ymk18D6/pluto-cine-drama.png" group-title="Pluto TV",Cine Drama
