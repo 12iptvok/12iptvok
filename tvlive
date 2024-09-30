@@ -72,10 +72,10 @@ http://tvlatino.live:8080/Vicente0304Usa24/GP2unYhJMRNa/465047
 http://novared.pro:80/play/6MQRUlDLoGB2-XiftzJH6U2xDZcDi3VuP1DYAuOr2111iGGMP7dGsTb6mmYtpNK8/ts
 
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://iili.io/JKgSqaj.png" group-title="Entretenimiento",E! Entertainment Television
-http://tvlatino.live:8080/Janeth30tv/sgtTDmEAsATR/608011
+http://tvlatino.live:8080/EdiCH593/b7esdfrWupnr/608011
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://iili.io/JKgSGnt.png" group-title="Entretenimiento",Lifetime
-http://tvlatino.live:8080/Janeth30tv/sgtTDmEAsATR/6144
+http://tvlatino.live:8080/EdiCH593/b7esdfrWupnr/6144
 
 #EXTINF:-1 tvg-id="El Gourmet" tvg-logo="https://iili.io/JKgSQDB.png" group-title="Entretenimiento",El Gourmet
 http://novared.pro:80/play/6MQRUlDLoGB2-XiftzJH6U2xDZcDi3VuP1DYAuOr212RIjvdC3TVAZdqrNwVDBxS/ts
@@ -108,7 +108,7 @@ http://168.181.122.234:8000/play/a03h/index.m3u8
 http://177.93.46.163:8000/play/a008
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.postimg.cc/RZGnvYvQ/amc-2024.png" group-title="Peliculas - Series",AMC
-http://tvlatino.live:8080/Janeth30tv/sgtTDmEAsATR/93526
+http://tvlatino.live:8080/EdiCH593/b7esdfrWupnr/93526
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="Peliculas - Series",HBO
 http://168.181.122.234:8000/play/a02o/index.m3u8
@@ -129,19 +129,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033
 https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
-http://tvlatino.live:8080/Janeth30tv/sgtTDmEAsATR/93854
+http://tvlatino.live:8080/EdiCH593/b7esdfrWupnr/93854
 
 #EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports B
 http://38.41.8.1:8000/play/a02i
 
 #EXTINF:-1 tvg-id="TNT Sports A" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports A
-http://tvlatino.live:8080/Janeth30tv/sgtTDmEAsATR/93857
+http://tvlatino.live:8080/EdiCH593/b7esdfrWupnr/93857
 
 #EXTINF:-1 tvg-id="TNT Sports B" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports B
 http://tvlatino.live:8080/Vicente0304Usa24/GP2unYhJMRNa/96927
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium A
-http://tvlatino.live:8080/Janeth30tv/sgtTDmEAsATR/76954
+http://tvlatino.live:8080/EdiCH593/b7esdfrWupnr/76954
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium B
 http://tvlatino.live:8080/Vicente0304Usa24/GP2unYhJMRNa/76953
@@ -159,7 +159,7 @@ http://nxt.plus:8080/Aliancista/914830/81343
 http://nxt.plus:8080/richard10/202135/81343
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Deportes",ESPN 3
-http://tvlatino.live:8080/Janeth30tv/sgtTDmEAsATR/92586
+http://tvlatino.live:8080/EdiCH593/b7esdfrWupnr/92586
 
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports
 http://vo01.mohdtv.com:8880/voby0446/65117222/49714
