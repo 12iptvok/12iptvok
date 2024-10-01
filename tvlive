@@ -33,7 +33,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="http://imgfz.com/i/xnMeKG6.png" group-title="Noticias",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="Noticias",HispanTV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
