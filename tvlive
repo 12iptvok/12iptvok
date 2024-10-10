@@ -194,6 +194,9 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="Spirit TV" tvg-logo="https://i.postimg.cc/Qt639Z1W/spirit-tv.png" group-title="Musica",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
+#EXTINF:-1 tvg-id="Trace Latina" tvg-logo="https://i.postimg.cc/K84bhFd9/trace-latina.png" group-title="Musica",Trace Latina
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cine Drama" tvg-logo="https://i.postimg.cc/2ymk18D6/pluto-cine-drama.png" group-title="Pluto TV",Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
