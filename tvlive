@@ -248,3 +248,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c7
 #EXTINF:-1 tvg-id="Archivos Forenses" tvg-logo="https://i.postimg.cc/HnG25RZj/pluto-archivos-forenses.png" group-title="Pluto TV",Archivos Forenses
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1, Peliculas TERROR
+https://raw.githubusercontent.com/david2803/Iptv/main/k%26d_terror.m3u
+
