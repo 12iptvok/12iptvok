@@ -105,7 +105,7 @@ http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/3551
 http://38.41.8.1:8000/play/a00s
 
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://iili.io/JKgQQ2I.png" group-title="Peliculas - Series",Space
-http://168.181.122.234:8000/play/a03h/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/159153
 
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="Peliculas - Series",Universal TV
 http://177.93.46.163:8000/play/a008
@@ -114,16 +114,16 @@ http://177.93.46.163:8000/play/a008
 http://tvlatino.live:8080/EdiCH593/b7esdfrWupnr/93526
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="Peliculas - Series",HBO
-http://168.181.122.234:8000/play/a02o/index.m3u8
+http://tvlatino.live:8080/LuisRojas2/vQKOdPZNvc/93481
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.postimg.cc/Tw5yqYgC/hbo2.png" group-title="Peliculas - Series",HBO 2
-http://168.181.122.234:8000/play/a02p/index.m3u8
+http://tvlatino.live:8080/LuisRojas2/vQKOdPZNvc/93484
 
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://i.postimg.cc/sx9gwBX9/hboplus.png" group-title="Peliculas - Series",HBO Plus
-http://168.181.122.234:8000/play/a02x/index.m3u8
+http://tvlatino.live:8080/LuisRojas2/vQKOdPZNvc/93485
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://iili.io/JKgDyQa.png" group-title="Peliculas - Series",Cinecanal
-http://168.181.122.234:8000/play/a035/index.m3u8
+https://daleplay.club:443/live/nj9121jose/NXqbrZuj9NRq/2c4ca91d-d6d2-4379-a6a6-973a4cfbbb92.m3u
 
 #EXTINF:-1 tvg-id="Runtime" tvg-logo="https://i.postimg.cc/HL8tnj3v/runtime.png" group-title="Peliculas - Series",Runtime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eblivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
