@@ -3,7 +3,7 @@
 https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="America TV" tvg-logo="http://imgfz.com/i/zbWlqtc.png" group-title="Noticias",America TV
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
 
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="http://imgfz.com/i/oWBtfnG.png" group-title="Noticias",Canal 9
 http://orbytdrm.xyz:8080/live/goodserver/dfmnVSwPLXQG/80164.ts
