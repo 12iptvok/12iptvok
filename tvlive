@@ -21,7 +21,7 @@ https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0076
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
-https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0059
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="http://imgfz.com/i/f2n4z0u.png" group-title="Noticias",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
