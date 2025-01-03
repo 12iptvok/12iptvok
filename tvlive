@@ -18,7 +18,7 @@ https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
-https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0076
+http://tvgusplay.info:8080/6UVXyh8faVQX/hVUNMAZc8vGg/475
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
 http://tvgusplay.info:8080/6UVXyh8faVQX/hVUNMAZc8vGg/593
