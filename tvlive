@@ -1,4 +1,4 @@
-#EXTM3U
+p#EXTM3U
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="http://imgfz.com/i/QGrfZet.png" group-title="Noticias",Telefe
 https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
@@ -18,10 +18,10 @@ https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
-http://1tv41.icu:8080/25464931/30585186/164876
+http://cord-cutter.net:8080/live/AHy3c7/745580/164876.ts
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
-http://1tv41.icu:8080/25464931/30585186/164873
+http://cord-cutter.net:8080/live/AHy3c7/745580/164873.ts
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="http://imgfz.com/i/f2n4z0u.png" group-title="Noticias",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
