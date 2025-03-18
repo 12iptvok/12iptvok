@@ -1,47 +1,47 @@
 p#EXTM3U
-#EXTINF:-1 tvg-id="Telefe" tvg-logo="http://imgfz.com/i/QGrfZet.png" group-title="Noticias",Telefe
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe
 https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-1 tvg-id="America TV" tvg-logo="http://imgfz.com/i/zbWlqtc.png" group-title="Noticias",America TV
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="Noticias",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal 9" tvg-logo="http://imgfz.com/i/oWBtfnG.png" group-title="Noticias",Canal 9
+#EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",Canal 9
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46708.ts
 
-#EXTINF:-1 tvg-id="Canal 13" tvg-logo="http://imgfz.com/i/cRg69o4.png" group-title="Noticias",Canal 13
+#EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Television Publica" tvg-logo="http://imgfz.com/i/lRIVuop.png" group-title="Noticias",Television Publica
+#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="Noticias",Television Publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cronica TV" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica TV
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="C5N" tvg-logo="http://imgfz.com/i/iJbHKzV.png" group-title="Noticias",C5N
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N
 http://cord-cutter.net:8080/live/AHy3c7/745580/164876.ts
 
-#EXTINF:-1 tvg-id="TN" tvg-logo="http://imgfz.com/i/coeTrKB.png" group-title="Noticias",TN
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN
 http://cord-cutter.net:8080/live/AHy3c7/745580/164873.ts
 
-#EXTINF:-1 tvg-id="A24" tvg-logo="http://imgfz.com/i/f2n4z0u.png" group-title="Noticias",A24
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/JnnD4460/a24.png" group-title="Noticias",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
 
-#EXTINF:-1 tvg-id="CGTN" tvg-logo="http://imgfz.com/i/XaER4GO.png" group-title="Noticias",CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.postimg.cc/ZRM99t2c/cgtn.png" group-title="Noticias",CGTN
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RT" tvg-logo="http://imgfz.com/i/C5Ns27u.png" group-title="Noticias",RT
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://i.postimg.cc/CM9NtW5k/rt.png" group-title="Noticias",RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-id="Telesur" tvg-logo="http://imgfz.com/i/xnMeKG6.png" group-title="Noticias",Telesur
+#EXTINF:-1 tvg-id="Telesur" tvg-logo="https://i.postimg.cc/Z5SLYprq/telesur.png" group-title="Noticias",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="Noticias",HispanTV
+#EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/9QYYD0pY/hispantv.png" group-title="Noticias",HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="Documentales",Encuentro
 http://tvmate.icu:8080/KFD8Wv/274022/164878
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://imgfz.com/i/09UWrie.png" group-title="Documentales",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/k4BQYcdT/animal-planet.png" group-title="Documentales",Animal Planet
 http://2.magmas5.com:8000/MarcRestrream/XRCAIK0SFX/132572
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
@@ -101,7 +101,7 @@ https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympus
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
 http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/2693
 
-#EXTINF:-1 tvg-id="CINE AR" tvg-logo="http://imgfz.com/i/CAbZaQJ.png" group-title="Peliculas - Series",CINE AR
+#EXTINF:-1 tvg-id="CINE AR" tvg-logo="https://i.postimg.cc/SKQ7C41F/cine-ar.png" group-title="Peliculas - Series",CINE AR
 http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/3551
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="Peliculas - Series",TNT
