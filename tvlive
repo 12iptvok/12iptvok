@@ -1,4 +1,4 @@
-p#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe
 https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
@@ -21,7 +21,7 @@ https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46702.ts
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN
-http://driptvs.com:2095/King200conxx/355sgdhh/728179
+http://cineflex.cc:8080/live/jnfasjidpm/itbxbzqdgq/0aabe6f5-f787-4d67-aa45-9a4dfe833fc8.m3u
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/JnnD4460/a24.png" group-title="Noticias",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
