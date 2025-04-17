@@ -5,7 +5,7 @@ https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="Noticias",America TV
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46700.ts
 
-#EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",Canal 9
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve
 http://api.m3use.projectmoose.xyz/m3u/Orange/ListaYT/68007c2a5a9986fbf77a2d7d.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",Canal 13
@@ -18,10 +18,10 @@ https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N
-http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46702.ts
+http://api.m3use.projectmoose.xyz/m3u/Orange/ListaYT/67f6ea766344ffb763c0ee45.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN
-http://2.magmas5.com:8000/ntxPlayAAdmin/TWR2USFKVH/140376
+http://api.m3use.projectmoose.xyz/m3u/Orange/ListaYT/67f81a97e813d30ec61c53bf.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/JnnD4460/a24.png" group-title="Noticias",A24
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46697.ts
