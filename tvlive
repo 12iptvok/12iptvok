@@ -180,7 +180,7 @@ http://2.magmas5.com:8000/MarcRestrream/XRCAIK0SFX/151931
 https://host200-25-57-9-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.postimg.cc/X72YMqHQ/retro-plus.png" group-title="Musica",Retro Plus
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Canal de la Musica" tvg-logo="https://i.postimg.cc/26rnY7F8/cm-canal-musica.png" group-title="Musica",El Canal de la Musica
 https://g2.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
