@@ -186,7 +186,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
 https://g2.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="RockTV" tvg-logo="https://i.postimg.cc/pTh69HVy/rocktv.png" group-title="Musica",RockTV
-http://api.m3use.projectmoose.xyz/m3u/Orange/ListaYT/680c1c1f2c39687cbf23de7f.m3u8
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-id="TopTV" tvg-logo="https://i.postimg.cc/Xq918kCb/toptv.png" group-title="Musica",TopTV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
