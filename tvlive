@@ -197,16 +197,16 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="Spirit TV" tvg-logo="https://i.postimg.cc/Qt639Z1W/spirit-tv.png" group-title="Musica",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
-#EXTINF:-1 tvg-id="Gran Hermano A" tvg-logo="https://i.postimg.cc/sxG0NJQC/gran-hermano-logo.jpg" group-title="Gran Hermano",Gran Hermano A
+#EXTINF:-1 tvg-id="Gran Hermano A" tvg-logo="https://i.postimg.cc/ncgQxGXw/gran-hermano.png" group-title="Gran Hermano",Gran Hermano A
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255314.ts
 
-#EXTINF:-1 tvg-id="Gran Hermano B" tvg-logo="https://i.postimg.cc/sxG0NJQC/gran-hermano-logo.jpg" group-title="Gran Hermano",Gran Hermano B
+#EXTINF:-1 tvg-id="Gran Hermano B" tvg-logo="https://i.postimg.cc/ncgQxGXw/gran-hermano.png" group-title="Gran Hermano",Gran Hermano B
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255315.ts
 
-#EXTINF:-1 tvg-id="Gran Hermano C" tvg-logo="https://i.postimg.cc/sxG0NJQC/gran-hermano-logo.jpg" group-title="Gran Hermano",Gran Hermano C
+#EXTINF:-1 tvg-id="Gran Hermano C" tvg-logo="https://i.postimg.cc/ncgQxGXw/gran-hermano.png" group-title="Gran Hermano",Gran Hermano C
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255316.ts
 
-#EXTINF:-1 tvg-id="Gran Hermano D" tvg-logo="https://i.postimg.cc/sxG0NJQC/gran-hermano-logo.jpg" group-title="Gran Hermano",Gran Hermano D
+#EXTINF:-1 tvg-id="Gran Hermano D" tvg-logo="https://i.postimg.cc/ncgQxGXw/gran-hermano.png" group-title="Gran Hermano",Gran Hermano D
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255317.ts
 
 #EXTINF:-1 tvg-id="Cine Drama" tvg-logo="https://i.postimg.cc/2ymk18D6/pluto-cine-drama.png" group-title="Pluto TV",Cine Drama
