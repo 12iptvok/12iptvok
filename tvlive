@@ -6,7 +6,7 @@ https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve
-http://tvmate.icu:8080/live/karen.bicknell@hotmail.com/karen.bicknell@2024/164869.ts
+https://api.m3use.projectmoose.xyz/m3u/Orange/ListaYT/681aefee626edc70d7214ca9.m3u8?uid=Orange&pkey=rCnMmj
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
