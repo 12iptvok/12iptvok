@@ -135,10 +135,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033
 https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46748.ts
+http://kstv.us:8080/live/Nh9rmGb0mc/1093377076/46748.ts
 
 #EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports B
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46749.ts
+http://kstv.us:8080/live/Nh9rmGb0mc/1093377076/46749.ts
 
 #EXTINF:-1 tvg-id="TNT Sports A" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports A
 http://p2premium.club:80/live/Guolee9080/Juan9080/470488.ts
