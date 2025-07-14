@@ -24,7 +24,7 @@ https://api.m3use.projectmoose.xyz/m3u/Orange/ListaYT/67f6ea766344ffb763c0ee45.m
 https://api.m3use.projectmoose.xyz/m3u/Orange/ListaYT/67f81a97e813d30ec61c53bf.m3u8?uid=Orange&pkey=rCnMmj
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="Noticias",A24
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/9ec745b0-1455-45cd-8cc2-b6c83a694098:SCL2/variant/b20e54831be1870c77de57c177c43ab4/bandwidth/2800000.m3u8
+https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw//master.m3u8
 
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.postimg.cc/ZRM99t2c/cgtn.png" group-title="Noticias",CGTN
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
