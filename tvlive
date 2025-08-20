@@ -197,18 +197,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="Spirit TV" tvg-logo="https://i.postimg.cc/Qt639Z1W/spirit-tv.png" group-title="Musica",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
-#EXTINF:-1 tvg-id="Gran Hermano A" tvg-logo="https://i.postimg.cc/ncgQxGXw/gran-hermano.png" group-title="Gran Hermano",Gran Hermano A
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255314.ts
-
-#EXTINF:-1 tvg-id="Gran Hermano B" tvg-logo="https://i.postimg.cc/ncgQxGXw/gran-hermano.png" group-title="Gran Hermano",Gran Hermano B
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255315.ts
-
-#EXTINF:-1 tvg-id="Gran Hermano C" tvg-logo="https://i.postimg.cc/ncgQxGXw/gran-hermano.png" group-title="Gran Hermano",Gran Hermano C
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255316.ts
-
-#EXTINF:-1 tvg-id="Gran Hermano D" tvg-logo="https://i.postimg.cc/ncgQxGXw/gran-hermano.png" group-title="Gran Hermano",Gran Hermano D
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255317.ts
-
 #EXTINF:-1 tvg-id="Cine Drama" tvg-logo="https://i.postimg.cc/2ymk18D6/pluto-cine-drama.png" group-title="Pluto TV",Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
