@@ -6,7 +6,7 @@ https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve
-https://api.m3use.projectmoose.xyz/m3u/Orange/ListaYT/681aefee626edc70d7214ca9.m3u8?uid=Orange&pkey=rCnMmj
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46708.ts
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -18,7 +18,7 @@ https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://g2.mc-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N
-https://api.m3use.projectmoose.xyz/m3u/Orange/ListaYT/67f6ea766344ffb763c0ee45.m3u8?uid=Orange&pkey=rCnMmj
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46702.ts
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
