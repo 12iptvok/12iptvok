@@ -89,6 +89,9 @@ http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132595.ts
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://i.postimg.cc/dtz4wRXz/las-estrellas.png" group-title="Entretenimiento",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://i.postimg.cc/kXhcryby/canal-extremadura.png" group-title="Entretenimiento",Canal Extremadura
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="Home Garden TV" tvg-logo="https://iili.io/JKggv4e.png" group-title="Entretenimiento",Home Garden TV
 http://fastream.xyz:8080/live/954202679tv/artxi6t/409.ts
 
