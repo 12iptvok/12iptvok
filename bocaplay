@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Club",Entrenamiento 
 https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="Noticias",America
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="Club",Viaje
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Resumen de Partidos",Boca vs Talleres 
 http://tv.zeuspro.xyz:8080/Hospremier2/30733f70ac5a/7937
 
-#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Resumen de Partidos",Colón vs Boca
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="Noticias",Television Publica
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="Pueblo Xeneixe",Yo Canto
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cronica" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Pueblo Xeneixe",Por Amor
 https://g2.mc-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="La Bombonera",Entrada
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46702.ts
 
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="La Bombonera",Entrada
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
-#EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="Noticias",A24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="Goles",Sergio Martinez 
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw//master.m3u8
