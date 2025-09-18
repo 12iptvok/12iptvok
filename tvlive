@@ -6,7 +6,7 @@ https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve
-http://canal-pro.xyz:8080/live/962904224tv/946j6z/61568.ts
+http://netlevel.online:8080/PabloMejia08/DYCKV/46977
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
