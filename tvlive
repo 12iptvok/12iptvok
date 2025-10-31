@@ -15,7 +15,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cronica" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica
-https://g3.proy-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+http://gama-mx.com:8085/VinicioGranda/099880VG/99749
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N
 http://gama-mx.com:8080/live/VinicioGranda/099880VG/99745.ts
