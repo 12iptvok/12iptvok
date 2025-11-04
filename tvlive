@@ -6,7 +6,7 @@ https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve
-http://gama-mx.com:8080/live/VinicioGranda/099880VG/374595.ts
+http://tvpromas.com:2082/live/56989072414wspztv/07092023ztv/2346.ts
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -18,7 +18,7 @@ https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://g4.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N
-http://gama-mx.com:8080/live/VinicioGranda/099880VG/99745.ts
+http://tv-cool.com:8000/live/zoila/11fc8a52aa/147245.ts
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
