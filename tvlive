@@ -6,10 +6,10 @@ https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve
-http://tvpromas.com:2082/live/56989072414wspztv/07092023ztv/2346.ts
+http://tv-cool.com:8000/live/zoila/11fc8a52aa/29987.ts
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece
-http://tv-cool.com:8000/live/zoila/11fc8a52aa/29982.ts
+http://tv-cool.com:8000/live/zoila/11fc8a52aa/31258.ts
 
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="Noticias",Television Publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
