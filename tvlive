@@ -9,7 +9,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/97677.ts
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46713.ts
+http://flx.lat:8080/live/FRANCHESCOTV/Daleplaytv/326902.ts
 
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="Noticias",Television Publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
