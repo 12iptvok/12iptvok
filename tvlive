@@ -179,7 +179,7 @@ http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145400.ts
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
 http://mgoplus.org:2086/live/Intertv39/123456/3483.ts
 
-#EXTINF:-1 tvg-id="DIRECTV Sports C" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports C
+#EXTINF:-1 tvg-id="Eventos" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos
 https://smjt9q.envivoslatam.org/disney2/tracks-v1a1/mono.m3u8?ip=200.55.245.133&token=dfd201be8873a685c45a104ee4ab19724af7afbe-de-1768471888-1768417888
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
