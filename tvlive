@@ -180,7 +180,7 @@ http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/145400.ts
 http://mgoplus.org:2086/live/Intertv39/123456/3483.ts
 
 #EXTINF:-1 tvg-id="Eventos" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos
-https://smjt9q.envivoslatam.org/disney2/tracks-v1a1/mono.m3u8?ip=200.55.245.133&token=dfd201be8873a685c45a104ee4ab19724af7afbe-de-1768471888-1768417888
+https://mze7u.envivoslatam.org/disney5/index.m3u8?token=fc878389095f219ce5e34ac9f897c844029c91f9-19-1768824596-1768770596&ip=200.55.245.133
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
