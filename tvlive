@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/3536.ts
+http://ultrapremium.cloud:8080/961212472tv1/i568pxsw2/53225
 
 #EXTINF:-1 tvg-id="America" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="Noticias",America
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
