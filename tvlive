@@ -230,7 +230,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="Naturaleza" tvg-logo="https://i.postimg.cc/GtZjFNXH/pluto-naturaleza.png" group-title="Pluto TV",Naturaleza
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Ciencia" tvg-logo="https://i.postimg.cc/28QHdjfY/pluto-ciencia.png" group-title="Pluto TV",Ciencia
+#EXTINF:-1 tvg-id="Documentales" tvg-logo="https://i.postimg.cc/0jH8CTFs/pluto-documentales.png" group-title="Pluto TV",Documentales
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddc503ac7ef120009b101a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="https://i.postimg.cc/6Q3YNd46/pluto-historia.png" group-title="Pluto TV",Historia
