@@ -207,7 +207,7 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Drama" tvg-logo="https://i.postimg.cc/2ymk18D6/pluto-cine-drama.png" group-title="Pluto TV",Cine Drama
-https://stitcher.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Cine Comedia" tvg-logo="https://i.postimg.cc/BbgqH9SC/pluto-cine-comedia.png" group-title="Pluto TV",Cine Comedia
 https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
