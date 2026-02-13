@@ -15,7 +15,7 @@ http://nxt.plus:8080/live/batusaix/javier/13226.ts
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cronica" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica
-https://g4.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+http://ultrapremium.cloud:8080/961212472tv1/i568pxsw2/15857
 
 #EXTINF:-1 tvg-id="C5N" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N
 http://ultrapremium.cloud:8080/961212472tv1/i568pxsw2/15817
