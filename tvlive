@@ -53,13 +53,13 @@ http://nxt.plus:8080/live/batusaix/javier/81338.ts
 #EXTINF:-1 tvg-id="C5N C" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N C
 http://xott.live:8080/live/0308520/0308521/348076.ts
 
-#EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN
+#EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN A
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TN B" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN
+#EXTINF:-1 tvg-id="TN B" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN B
 http://xott.live:8080/live/0308520/0308521/348159.ts
 
-#EXTINF:-1 tvg-id="TN C" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN
+#EXTINF:-1 tvg-id="TN C" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN C
 http://panelguys.top:8080/live/11842178/11842178/164873.ts
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="Noticias",A24
