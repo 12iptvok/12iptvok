@@ -36,13 +36,13 @@ http://nxt.plus:8080/live/batusaix/javier/13226.ts
 http://canal-pro.xyz:8080/962251034tv/7t48ipxw/15905
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/46721.ts
+http://186.0.248.91:20202/Live/57b74fab1d5a0ace21eb258c3ed00870/CronicaTv.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cronica B" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica B
-http://s.rocketdns.info:8080/live/allsettv/TvFOj4Wb55HJDG1/2854.ts
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/46721.ts
 
 #EXTINF:-1 tvg-id="Cronica C" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica C
-http://vipboacnn.top:8080/VIP0199169358094917/21693580949/4746
+http://s.rocketdns.info:8080/live/allsettv/TvFOj4Wb55HJDG1/2854.ts
 
 #EXTINF:-1 tvg-id="C5N A" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N A
 http://186.0.248.91:20202/Live/c5e37163cc885bc8201f8b4011d0c4d6/c5n_720.m3u8
