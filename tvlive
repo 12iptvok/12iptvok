@@ -1,4 +1,4 @@
-i#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="Telefe A" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe A
 http://186.0.248.91:20202/Live/c5e37163cc885bc8201f8b4011d0c4d6/telefe_720.m3u8
 
