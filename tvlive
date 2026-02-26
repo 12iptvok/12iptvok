@@ -222,10 +222,10 @@ http://nxt.plus:8080/live/batusaix/javier/270169.ts
 http://mgoplus.org:2086/live/Intertv39/123456/3483.ts
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
-https://qbk4f.envivoslatam.org/tycsports/tracks-v1a1/mono.m3u8?ip=200.55.245.131&token=a29f0d4bf20c374f6f1427a2b3a00a9b664042e3-a9-1772021520-1771967520
+https://lcrj3.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=200.55.245.131&token=e880e93bc6620360fc61dbbdc2d3453da3ae4cd3-42-1772188763-1772134763
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-https://n12.sanwalyaarpya.com:1686/hls/tntarg.m3u8?md5=TSTRvZWt0OASo57qKv7UIw&expires=1771985566
+https://a2vlca.fubohd.com/tntsports/mono.m3u8?token=a06aad586ca4b542274cec853ae63bb5cc0eb409-17-1772160906-1772142906
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
