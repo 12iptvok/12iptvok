@@ -207,10 +207,10 @@ http://nxt.plus:8080/live/batusaix/javier/16497.ts
 http://xott.live:8080/live/0308520/0308521/348113.ts
 
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 B
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47100.ts
+http://45.5.151.147:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Deportes",ESPN 3
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47104.ts
+http://45.5.151.147:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports
 http://tv.zeuspro.xyz:8080/Hospremier2/30733f70ac5a/9575
@@ -219,7 +219,7 @@ http://tv.zeuspro.xyz:8080/Hospremier2/30733f70ac5a/9575
 http://nxt.plus:8080/live/batusaix/javier/270169.ts
 
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
-http://mgoplus.org:2086/live/Intertv39/123456/3483.ts
+http://190.108.89.228:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
 https://lcrj3.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=200.55.245.131&token=e880e93bc6620360fc61dbbdc2d3453da3ae4cd3-42-1772188763-1772134763
