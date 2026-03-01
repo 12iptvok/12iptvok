@@ -219,10 +219,10 @@ http://nxt.plus:8080/live/batusaix/javier/270169.ts
 http://190.108.89.228:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
-https://iaw5b.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=200.55.245.133&token=6430deea3bfc26495323fb10b8558cba0e9959a7-49-1772355309-1772301309
+https://j8nte.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=200.55.245.133&token=bb74253c5dcf6cb7f2c4df9604a1fce5a42b22ce-f2-1772439913-1772385913
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-https://agvyby.fubohd.com/tntsports/mono.m3u8?token=2ddd640bdafb9a9f7d9453fffc2ac6897f80ecb4-53-1772327702-1772309702
+https://tyg2mnl9.fubohd.com/espnpremium/mono.m3u8?token=82e18757b60f48ee37f405da5b3ce34a386836fe-e6-1772412046-1772394046
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
@@ -244,43 +244,4 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Spirit TV" tvg-logo="https://i.postimg.cc/Qt639Z1W/spirit-tv.png" group-title="Musica",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
-#EXTINF:-1 tvg-id="Cine Drama" tvg-logo="https://i.postimg.cc/2ymk18D6/pluto-cine-drama.png" group-title="Pluto TV",Cine Drama
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Cine Comedia" tvg-logo="https://i.postimg.cc/BbgqH9SC/pluto-cine-comedia.png" group-title="Pluto TV",Cine Comedia
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Cine Estelar" tvg-logo="https://i.postimg.cc/7PMPp73T/pluto-cine-estelar.png" group-title="Pluto TV",Cine Estelar
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Cine Crimen" tvg-logo="https://i.postimg.cc/zGMqnkr4/pluto-cine-crimen.png" group-title="Pluto TV",Cine Crimen
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/624af40c004f8000079b784d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Cine Suspenso" tvg-logo="https://i.postimg.cc/J7qmT88N/pluto-cine-suspenso.png" group-title="Pluto TV",Cine Suspenso
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Cine Terror" tvg-logo="https://i.postimg.cc/zGLrXRg7/pluto-cine-terror.png" group-title="Pluto TV",Cine Terror
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Aventura" tvg-logo="https://i.postimg.cc/bNcC2DWL/pluto-aventura.png" group-title="Pluto TV",Aventura
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Naturaleza" tvg-logo="https://i.postimg.cc/GtZjFNXH/pluto-naturaleza.png" group-title="Pluto TV",Naturaleza
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Documentales" tvg-logo="https://i.postimg.cc/0jH8CTFs/pluto-documentales.png" group-title="Pluto TV",Documentales
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddc503ac7ef120009b101a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Historia" tvg-logo="https://i.postimg.cc/6Q3YNd46/pluto-historia.png" group-title="Pluto TV",Historia
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Misterios Medicos" tvg-logo="https://i.postimg.cc/FKBGF70y/pluto-misterios-medicos.png" group-title="Pluto TV",Misterios Medicos
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Investiga" tvg-logo="https://i.postimg.cc/bJSgZpRK/pluto-investiga.png" group-title="Pluto TV",Investiga
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Archivos Forenses" tvg-logo="https://i.postimg.cc/HnG25RZj/pluto-archivos-forenses.png" group-title="Pluto TV",Archivos Forenses
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=960880d4-0208-11f1-a19a-b01476b4a7be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e520986-b86d-417e-8416-d2e69b76c4c8&userId=&serverSideAds=true
 
