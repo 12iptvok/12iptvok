@@ -39,7 +39,7 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 http://186.0.248.91:20202/Live/57b74fab1d5a0ace21eb258c3ed00870/CronicaTv.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cronica B" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica B
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/46721.ts
+http://181.13.252.102:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="Cronica C" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica C
 http://45.5.151.147:8000/play/a009/index.m3u8
