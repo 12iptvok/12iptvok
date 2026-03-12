@@ -93,7 +93,7 @@ http://fortv.cc:8080/0cMATP/071483/57645
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/135673.ts
 
 #EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://i.postimg.cc/FRxt05bM/amc-crime.png" group-title="Documentales",AMC Crime
-http://canal-pro.xyz:8080/962251034tv/7t48ipxw/236425
+http://ip.euvip.link:8080//live/okn320/Cxz6Yn8DM7/171717.ts
 
 #EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://iili.io/JKgZg87.png" group-title="Documentales",Universal Crime
 http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/2697
@@ -108,7 +108,7 @@ http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132580.ts
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132575.ts
 
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="https://iili.io/JKgNuGj.png" group-title="Documentales",Odisea
-http://canal-pro.xyz:8080/962251034tv/7t48ipxw/236335
+http://ip.euvip.link:8080//live/okn320/Cxz6Yn8DM7/171733.ts
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
 http://181.13.252.102:8000/play/a07h/index.m3u8
@@ -126,16 +126,13 @@ http://181.13.252.102:8000/play/a06w/index.m3u8
 http://ip.euvip.link:8080//live/okn320/Cxz6Yn8DM7/171761.ts
 
 #EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://iili.io/JKggfmQ.png" group-title="Entretenimiento",Hola TV
-http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132595.ts
+http://45.5.116.228:8000/play/a0hx/index.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://i.postimg.cc/dtz4wRXz/las-estrellas.png" group-title="Entretenimiento",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://i.postimg.cc/RZ622hNN/canal-extremadura.png" group-title="Entretenimiento",Canal Extremadura
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="Home Garden TV" tvg-logo="https://iili.io/JKggv4e.png" group-title="Entretenimiento",Home Garden TV
-http://canal-pro.xyz:8080/962251034tv/7t48ipxw/621
 
 #EXTINF:-1 tvg-id="Love The Planet" tvg-logo="https://i.postimg.cc/1tSGgLsP/love-the-planet.png" group-title="Entretenimiento",Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
