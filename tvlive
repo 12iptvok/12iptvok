@@ -111,7 +111,7 @@ http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132575.ts
 http://canal-pro.xyz:8080/962251034tv/7t48ipxw/236335
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
-http://canal-pro.xyz:8080/962251034tv/7t48ipxw/24806
+http://181.13.252.102:8000/play/a07h/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://iili.io/JKgSqaj.png" group-title="Entretenimiento",E! Entertainment Television
 http://181.13.252.102:8000/play/a050/index.m3u8
@@ -123,7 +123,7 @@ http://181.13.252.102:8000/play/a06n/index.m3u8
 http://181.13.252.102:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://iili.io/JKgUzJf.png" group-title="Entretenimiento",Canal Cocina
-http://canal-pro.xyz:8080/962251034tv/7t48ipxw/236358
+http://ip.euvip.link:8080//live/okn320/Cxz6Yn8DM7/171761.ts
 
 #EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://iili.io/JKggfmQ.png" group-title="Entretenimiento",Hola TV
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/132595.ts
