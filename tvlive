@@ -141,7 +141,7 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/pla
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
-http://live.btv.mx:2424/stream/158692/smAVz_uhytj5REM-4pYNZbkrcB2
+http://181.209.37.74:8001/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE AR" tvg-logo="https://i.postimg.cc/SKQ7C41F/cine-ar.png" group-title="Peliculas - Series",CINE AR
 http://181.13.252.102:8000/play/a024/index.m3u8
@@ -153,10 +153,10 @@ http://181.13.252.102:8000/play/a07d/index.m3u8
 http://181.13.252.102:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="Peliculas - Series",Universal TV
-http://live.btv.mx:2424/stream/158696/smAVz_uhytj5REM-4pYNZbkrcB2
+http://181.209.37.74:8001/play/a09i/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.postimg.cc/RZGnvYvQ/amc-2024.png" group-title="Peliculas - Series",AMC
-http://live.btv.mx:2424/stream/158670/smAVz_uhytj5REM-4pYNZbkrcB2
+http://181.209.37.74:8001/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/JKgDwBf.png" group-title="Peliculas - Series",HBO
 http://181.13.252.102:8000/play/a06o/index.m3u8
