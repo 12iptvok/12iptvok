@@ -180,13 +180,13 @@ http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46748.ts
 http://nxt.plus:8080/live/batusaix/javier/270167.ts
 
 #EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium A
-http://nxt.plus:8080/live/batusaix/javier/25121.ts
+http://181.13.252.102:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium B" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium B
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/46744.ts
+http://nxt.plus:8080/live/batusaix/javier/25121.ts
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium A
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46727.ts
+http://181.13.252.102:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium B
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/46728.ts
