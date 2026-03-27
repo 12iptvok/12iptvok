@@ -216,7 +216,7 @@ http://nxt.plus:8080/live/batusaix/javier/270169.ts
 http://190.108.89.228:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
-https://afy4c.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=200.55.245.133&token=3088bf62513525a21efea585cc87729efa3d7b32-4a-1774264525-1774210525
+https://iaw5b.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=03c0a32f45dc5d09bbf7715b6193ac401808a5a8-9b-1774696587-1774642587
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
 https://qzv4jmsc.fubohd.com/espnpremium/mono.m3u8?token=934657ea3d8c4f82467142f81f8270cf421eb427-67-1774236670-1774218670
