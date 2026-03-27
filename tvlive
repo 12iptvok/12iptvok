@@ -210,7 +210,7 @@ http://45.5.151.147:8000/play/a00k/index.m3u8
 http://181.13.252.102:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports A
-http://nxt.plus:8080/live/batusaix/javier/270169.ts
+http://179.43.96.253:8000/play/a24w/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
 http://190.108.89.228:8000/play/a05w/index.m3u8
