@@ -6,7 +6,7 @@ http://186.0.248.91:20202/Live/c5e37163cc885bc8201f8b4011d0c4d6/telefe_720.m3u8
 http://45.5.151.147:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe C" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe C
-http://nxt.plus:8080/live/batusaix/javier/1634.ts
+http://138.121.114.91:8000/play/a08a/index.m3u8
 
 #EXTINF:-1 tvg-id="America A" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="Noticias",America A
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
