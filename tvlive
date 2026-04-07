@@ -192,16 +192,16 @@ http://45.5.151.147:8000/play/a00m/index.m3u8
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46727.ts
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
-http://190.108.89.228:8000/play/a0es/index.m3u8
+http://45.5.151.147:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
-http://nxt.plus:8080/live/batusaix/javier/16497.ts
+http://190.108.89.228:8000/play/a0es/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
-http://191.97.14.162:8000/play/a016/index.m3u8
+http://45.5.151.147:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 B
-http://45.5.151.147:8000/play/a00j/index.m3u8
+http://191.97.14.162:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Deportes",ESPN 3
 http://45.5.151.147:8000/play/a00k/index.m3u8
