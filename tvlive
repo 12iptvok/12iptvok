@@ -210,10 +210,10 @@ http://45.5.151.147:8000/play/a00k/index.m3u8
 http://181.13.252.102:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports A
-http://191.97.59.33:8000/play/a09t/index.m3u8
+http://191.97.61.32:8000/play/a08t/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
-http://191.97.61.32:8000/play/a08t/index.m3u8
+http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9563
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
 https://pvtn5y.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=3ab9c6a171406068b231171cf36d0a54bc6db98f-9f-1775738717-1775684717
