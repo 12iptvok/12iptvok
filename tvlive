@@ -210,7 +210,7 @@ http://45.5.151.147:8000/play/a00k/index.m3u8
 http://181.13.252.102:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports A
-http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9560
+http://191.97.59.33:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
 http://live.fuxxion.club:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9563
