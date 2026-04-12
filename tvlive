@@ -189,7 +189,7 @@ http://nxt.plus:8080/live/batusaix/javier/25121.ts
 http://45.5.151.147:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium B
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46727.ts
+http://181.13.252.102:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
 http://45.5.151.147:8000/play/a00i/index.m3u8
