@@ -174,10 +174,10 @@ http://live.btv.mx:2424/stream/158778/smAVz_uhytj5REM-4pYNZbkrcB2
 https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46748.ts
+http://45.5.151.147:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports B
-http://45.5.151.147:8000/play/a00s/index.m3u8
+http://181.13.252.102:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium A
 http://45.5.151.147:8000/play/a00r/index.m3u8
