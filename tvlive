@@ -183,7 +183,7 @@ http://181.13.252.102:8000/play/a02s/index.m3u8
 http://45.5.151.147:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium B" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium B
-http://nxt.plus:8080/live/batusaix/javier/25121.ts
+http://181.13.252.102:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium A
 http://45.5.151.147:8000/play/a00m/index.m3u8
@@ -216,10 +216,10 @@ http://191.97.61.32:8000/play/a08t/index.m3u8
 http://177.53.152.117:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
-http://45.5.118.152:8000/play/a04k/index.m3u8
+https://ng0pr.envivoslatam.org/max3/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=b10cd06270dc8134222944bb7b22f90ae6c91b84-9d-1776672289-1776618289
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-http://38.187.3.110:8000/play/a0c6/index.m3u8
+https://kh5vy.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=9dcbf62f36e0ceccd2bcda875ef22b0ab8bfe094-54-1776672327-1776618327
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
