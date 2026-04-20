@@ -141,7 +141,7 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/pla
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
-http://190.108.80.138:8000/play/a08r/index.m3u8
+http://38.187.2.124:8000/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE AR" tvg-logo="https://i.postimg.cc/SKQ7C41F/cine-ar.png" group-title="Peliculas - Series",CINE AR
 http://181.13.252.102:8000/play/a024/index.m3u8
@@ -165,7 +165,7 @@ http://190.108.83.69:8000/play/a035/index.m3u8
 http://190.108.83.69:8000/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://i.postimg.cc/sx9gwBX9/hboplus.png" group-title="Peliculas - Series",HBO Plus
-http://190.108.83.69:8000/play/a06b/index.m3u8
+http://38.187.2.124:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://iili.io/JKgDyQa.png" group-title="Peliculas - Series",Cinecanal
 http://190.108.93.71:8000/play/a0aj/index.m3u8
