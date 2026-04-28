@@ -219,7 +219,10 @@ http://177.53.152.117:8000/play/a07d/index.m3u8
 https://14c51.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=e88fa397258d5085f235b436642a194aae069e01-3c-1777281602-1777227602
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-https://iaw5b.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=0afaa3c6643088c1e6ee949d2ca3e678a0a10ada-90-1777281541-1777227541
+http://148.222.230.144:8000/play/a071/index.m3u8
+
+#EXTINF:-1 tvg-id="Eventos C" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos C
+http://191.97.61.32:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
