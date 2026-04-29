@@ -219,7 +219,7 @@ http://177.53.152.117:8000/play/a07d/index.m3u8
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-http://148.222.230.144:8000/play/a071/index.m3u8
+http://45.181.120.147:9800/play/115/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos C" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos C
 http://191.97.61.32:8000/play/a07c/index.m3u8
