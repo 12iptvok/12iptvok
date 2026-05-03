@@ -138,7 +138,7 @@ https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/c
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV Saber Mas" tvg-logo="https://i.postimg.cc/wvMMLZWy/freetv-sabermas.png" group-title="Entretenimiento",FreeTV Saber Mas
-https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260502d7r8tk6a797t6h3g0s2g/1280x720_3071200_0_f.m3u8?i=475_16474
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
 http://38.187.2.124:8000/play/a025/index.m3u8
@@ -171,7 +171,7 @@ http://38.187.2.124:8000/play/a03j/index.m3u8
 http://190.108.93.71:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV Estelar" tvg-logo="https://i.postimg.cc/sfGJsTwP/freetv-estelar.png" group-title="Peliculas - Series",FreeTV Estelar
-https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260502d7r8uk3r2r68fe0t6li0/1280x720_3000800_0_f.m3u8?i=475_16197
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
 http://45.5.151.147:8000/play/a00s/index.m3u8
