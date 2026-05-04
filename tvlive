@@ -131,7 +131,7 @@ http://45.5.116.228:8000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://i.postimg.cc/dtz4wRXz/las-estrellas.png" group-title="Entretenimiento",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://i.postimg.cc/RZ622hNN/canal-extremadura.png" group-title="Entretenimiento",Canal Extremadura
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://i.postimg.cc/ncC60GnN/canal-extremadura-2026.png" group-title="Entretenimiento",Canal Extremadura
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
 
 #EXTINF:-1 tvg-id="Love The Planet" tvg-logo="https://i.postimg.cc/1tSGgLsP/love-the-planet.png" group-title="Entretenimiento",Love The Planet
@@ -170,8 +170,8 @@ http://38.187.2.124:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://iili.io/JKgDyQa.png" group-title="Peliculas - Series",Cinecanal
 http://190.108.93.71:8000/play/a0aj/index.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Estelar" tvg-logo="https://i.postimg.cc/sfGJsTwP/freetv-estelar.png" group-title="Peliculas - Series",FreeTV Estelar
-https://stream.ads.ottera.tv/cl/260502d7r8uk3r2r68fe0t6li0/1280x720_3000800_0_f.m3u8?i=475_16197
+#EXTINF:-1 tvg-id="Warner TV" tvg-logo="https://i.postimg.cc/8CjL34Qc/warner-tv.png" group-title="Peliculas - Series",Warner TV
+http://190.60.48.151:8010/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
 http://45.5.151.147:8000/play/a00s/index.m3u8
