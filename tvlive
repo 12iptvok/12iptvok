@@ -207,7 +207,7 @@ http://191.97.61.32:8000/play/a08t/index.m3u8
 http://177.53.152.117:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
-https://ng0pr.envivoslatam.org/espn5/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=dc2ad086760057b6b5edbb3adbd9a38cac9954e6-fd-1779279696-1779225696
+http://181.78.8.199:8000/play/a0bv/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
 http://148.222.230.144:8000/play/a0c6/index.m3u8
