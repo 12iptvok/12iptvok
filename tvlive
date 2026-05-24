@@ -87,7 +87,10 @@ http://lotvservices.net:80/live/Walterdavid/9UbMJRMUpN/327037.ts
 http://191.97.61.32:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
-http://fortv.cc:8080/0cMATP/071483/57645
+http://38.199.4.105:9999/play/a0mh/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.postimg.cc/XvMpJvrP/discovery-science.png" group-title="Documentales",Discovery Science
+http://181.224.255.210:8001/play/a0mo/index.m3u8
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://iili.io/JKgWGNs.png" group-title="Documentales",Investigation Discovery
 http://190.60.48.151:8010/play/a03y/index.m3u8
