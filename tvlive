@@ -89,7 +89,7 @@ http://191.97.61.32:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
 http://38.199.4.105:9999/play/a0mh/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.postimg.cc/XvMpJvrP/discovery-science.png" group-title="Documentales",Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/mrP6THcR/discovery-science.png" group-title="Documentales",Discovery Science
 http://181.224.255.210:8001/play/a0mo/index.m3u8
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://iili.io/JKgWGNs.png" group-title="Documentales",Investigation Discovery
@@ -125,13 +125,13 @@ http://45.5.116.228:8000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://i.postimg.cc/dtz4wRXz/las-estrellas.png" group-title="Entretenimiento",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://i.postimg.cc/ncC60GnN/canal-extremadura-2026.png" group-title="Entretenimiento",Canal Extremadura
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://i.ibb.co/HRkPPht/canal-extremadura-2026.png" group-title="Entretenimiento",Canal Extremadura
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
 
 #EXTINF:-1 tvg-id="Love The Planet" tvg-logo="https://i.postimg.cc/1tSGgLsP/love-the-planet.png" group-title="Entretenimiento",Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.postimg.cc/bwCXTVnw/canal-sur-andalucia.png" group-title="Entretenimiento",Canal Sur Andalucía
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.ibb.co/hFnNnJn8/canal-sur-andalucia-A.png" group-title="Entretenimiento",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
