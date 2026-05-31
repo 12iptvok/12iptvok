@@ -45,10 +45,10 @@ http://181.13.252.102:8000/play/a01q/index.m3u8
 http://45.5.149.220:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N A" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N A
-http://45.5.151.62:8000/play/a005/index.m3u8
+http://181.209.96.155:10000/play/a11n/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N B" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N B
-http://45.5.151.147:8000/play/a007/index.m3u8
+http://181.13.252.102:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N C" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N C
 http://45.5.149.220:8000/play/a035/index.m3u8
