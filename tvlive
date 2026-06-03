@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Telefe A" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe A
-http://45.5.151.62:8000/play/a02s/index.m3u8
+http://181.209.96.155:10000/play/a15g/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe B" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe B
 http://45.5.151.147:8000/play/a00g/index.m3u8
@@ -18,7 +18,7 @@ http://45.5.151.62:8000/play/a02t/index.m3u8
 http://xott.live:8080/live/0308520/0308521/348070.ts
 
 #EXTINF:-1 tvg-id="El Nueve A" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve A
-http://45.5.151.62:8000/play/a00g/index.m3u8
+http://181.209.96.155:10000/play/a13z/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve B" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve B
 http://45.5.151.147:8000/play/a00e/index.m3u8
@@ -27,7 +27,7 @@ http://45.5.151.147:8000/play/a00e/index.m3u8
 http://45.5.149.220:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
-http://45.5.151.62:8000/play/a00e/index.m3u8
+http://181.209.96.155:10000/play/a15e/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
 http://45.5.151.147:8000/play/a00f/index.m3u8
@@ -63,7 +63,7 @@ http://45.5.151.62:8000/play/a006/index.m3u8
 http://xott.live:8080/live/0308520/0308521/348159.ts
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="Noticias",A24
-http://45.5.151.62:8000/play/a02m/index.m3u8
+http://181.209.96.155:10000/play/a11m/index.m3u8
 
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="Noticias",Television Publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
