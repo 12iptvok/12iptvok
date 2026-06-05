@@ -63,7 +63,7 @@ http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157577.ts
 http://xott.live:8080/live/0308520/0308521/348159.ts
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="Noticias",A24
-http://181.209.96.155:10000/play/a11m/index.m3u8
+https://g2.vxral-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="Noticias",Television Publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
