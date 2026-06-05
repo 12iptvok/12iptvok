@@ -36,7 +36,7 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157591.ts
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
-http://181.209.96.155:10000/play/a11o/index.m3u8
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cronica B" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica B
 http://181.13.252.102:8000/play/a01q/index.m3u8
