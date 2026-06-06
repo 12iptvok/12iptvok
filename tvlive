@@ -219,7 +219,7 @@ http://191.97.61.32:8000/play/a091/index.m3u8
 http://38.224.22.252:8000/play/a0ct/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-https://ng0pr.envivoslatam.org/espn2/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=fe2247b97359e663e40bf2d3587a4a97ad8cab04-3b-1780057383-1780003383
+http://200.59.188.3:8000/play/a0th
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
