@@ -3,7 +3,7 @@
 http://181.209.96.155:10000/play/a15g/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe B" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe B
-http://181.13.252.102:8000/play/a06c/index.m3u8
+http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe C" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe C
 http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157589.ts
@@ -21,7 +21,7 @@ http://xott.live:8080/live/0308520/0308521/348070.ts
 http://181.209.96.155:10000/play/a13z/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve B" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve B
-http://181.13.252.102:8000/play/a04h/index.m3u8
+http://190.7.19.197:232/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve C" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve C
 http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157621.ts
@@ -30,7 +30,7 @@ http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157621.ts
 http://181.209.96.155:10000/play/a15e/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
-http://181.13.252.102:8000/play/a0bg/index.m3u8
+http://190.7.19.197:232/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
 http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157591.ts
@@ -48,7 +48,7 @@ https://nameless-resonance-f644.javimarki.workers.dev/6
 http://181.209.96.155:10000/play/a11n/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N B" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N B
-http://181.13.252.102:8000/play/a01p/index.m3u8
+http://190.7.19.197:232/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N C" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N C
 http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157607.ts
@@ -108,16 +108,16 @@ http://181.13.252.102:8000/play/a0ab/index.m3u8
 http://191.97.61.32:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
-http://181.13.252.102:8000/play/a07h/index.m3u8
+http://190.7.19.197:232/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://iili.io/JKgSqaj.png" group-title="Entretenimiento",E! Entertainment Television
-http://181.13.252.102:8000/play/a050/index.m3u8
+http://190.7.19.197:232/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://iili.io/JKgSGnt.png" group-title="Entretenimiento",Lifetime
-http://181.13.252.102:8000/play/a06n/index.m3u8
+http://190.7.19.197:232/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-id="El Gourmet" tvg-logo="https://iili.io/JKgSQDB.png" group-title="Entretenimiento",El Gourmet
-http://181.13.252.102:8000/play/a06w/index.m3u8
+http://38.224.231.94:8000/play/a0bt/index.m3u8
 
 #EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://iili.io/JKggfmQ.png" group-title="Entretenimiento",Hola TV
 http://45.5.116.228:8000/play/a0hx/index.m3u8
@@ -138,7 +138,7 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 http://152.230.229.66:8001/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE AR" tvg-logo="https://i.postimg.cc/SKQ7C41F/cine-ar.png" group-title="Peliculas - Series",CINE AR
-http://181.13.252.102:8000/play/a024/index.m3u8
+http://190.7.19.197:232/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://iili.io/JKgQc12.png" group-title="Peliculas - Series",TNT
 http://190.108.80.138:8000/play/a0iy/index.m3u8
@@ -171,37 +171,37 @@ http://190.60.48.151:8010/play/a03w/index.m3u8
 http://181.209.96.155:10000/play/a12q/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports B
-http://181.13.252.102:8000/play/a02s/index.m3u8
+http://190.7.19.197:232/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium A
 http://181.209.96.155:10000/play/a12s/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium B" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium B
-http://181.13.252.102:8000/play/a0bc/index.m3u8
+http://190.7.19.197:232/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium A
 http://181.209.96.155:10000/play/a15c/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium B
-http://181.13.252.102:8000/play/a078/index.m3u8
+http://190.7.19.197:232/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
-http://181.13.252.102:8000/play/a05a/index.m3u8
+http://190.7.19.197:232/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
 http://191.97.61.32:8000/play/a0c0/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
-http://181.13.252.102:8000/play/a059/index.m3u8
+http://190.7.19.197:232/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 B
 http://191.97.61.32:8000/play/a091/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Deportes",ESPN 3
-http://181.13.252.102:8000/play/a05b/index.m3u8
+http://190.7.19.197:232/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports
-http://181.13.252.102:8000/play/a07j/index.m3u8
+http://190.7.19.197:232/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports A
 http://191.97.61.32:8000/play/a08t/index.m3u8
