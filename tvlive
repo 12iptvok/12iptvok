@@ -219,7 +219,7 @@ http://planettvweb.com:8091/live/Jorge42/MPda4257/12040.ts
 http://planettvweb.com:8091/live/Jorge42/MPda4257/50497.ts
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-http://200.59.188.3:8000/play/a0th
+http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157589.ts
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
