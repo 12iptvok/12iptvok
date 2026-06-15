@@ -210,13 +210,13 @@ http://191.97.61.32:8000/play/a08t/index.m3u8
 http://177.53.152.117:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
-http://148.222.230.144:8000/play/a0dx/index.m3u8u?hls
+https://tinyurl.com/tycsportsar
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-http://191.97.61.32:8000/play/a091/index.m3u8
+http://planettvweb.com:8091/live/Jorge42/MPda4257/12040.ts
 
 #EXTINF:-1 tvg-id="Eventos C" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos C
-http://38.224.22.252:8000/play/a0ct/index.m3u8
+http://planettvweb.com:8091/live/Jorge42/MPda4257/50497.ts
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
 http://200.59.188.3:8000/play/a0th
