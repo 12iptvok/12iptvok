@@ -84,7 +84,7 @@ https://live.presstv.ir/hls/hispantv.m3u8
 http://lotvservices.net:80/live/Walterdavid/9UbMJRMUpN/327037.ts
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/k4BQYcdT/animal-planet.png" group-title="Documentales",Animal Planet
-http://191.97.61.32:8000/play/a05q/index.m3u8
+http://179.43.96.253:8000/play/a211/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
 http://38.199.4.105:9999/play/a0mh/index.m3u8
@@ -105,7 +105,7 @@ http://190.108.83.69:8000/play/a045/index.m3u8
 http://38.224.231.94:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://iili.io/JKgwQEv.png" group-title="Documentales",National Geographic
-http://191.97.61.32:8000/play/a05w/index.m3u8
+http://179.43.96.253:8000/play/a1xn/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
 http://190.7.19.197:232/play/a064/index.m3u8
@@ -189,13 +189,13 @@ http://190.7.19.197:232/play/a038/index.m3u8
 http://190.7.19.197:232/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
-http://191.97.61.32:8000/play/a0c0/index.m3u8
+http://179.43.96.253:8000/play/a24x/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
 http://190.7.19.197:232/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 B
-http://191.97.61.32:8000/play/a091/index.m3u8
+http://179.43.96.253:8000/play/a1ys/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Deportes",ESPN 3
 http://190.7.19.197:232/play/a03o/index.m3u8
