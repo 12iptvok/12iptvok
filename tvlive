@@ -204,10 +204,10 @@ http://190.7.19.197:232/play/a03o/index.m3u8
 http://190.7.19.197:232/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports A
-http://191.97.61.32:8000/play/a08t/index.m3u8
+http://179.43.96.253:8000/play/a24w/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
-http://177.53.152.117:8000/play/a07d/index.m3u8
+http://190.108.93.180:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
 https://tinyurl.com/tycsportsar
