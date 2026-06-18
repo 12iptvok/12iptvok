@@ -6,7 +6,7 @@ http://181.209.96.155:10000/play/a15g/index.m3u8
 http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe C" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe C
-http://daleplay.vip:80//live/hghc4@3gf(n)!/kmgd56(e)3@400/50510.ts
+http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157589.ts
 
 #EXTINF:-1 tvg-id="America A" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="Noticias",America A
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
