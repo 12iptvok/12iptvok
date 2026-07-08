@@ -230,6 +230,9 @@ http://planettvweb.com:8091/live/Jorge42/MPda4257/50497.ts
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
 https://wp.streamtp.sbs/disney1/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=b65198c7a38c4a295c32570e588496ba22716645-79-1783587964-1783533964
 
+#EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
+http://187.245.231.226:8000/play/a0tf/index.m3u8
+
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 
