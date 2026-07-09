@@ -24,7 +24,7 @@ http://190.7.19.197:232/play/a03k/index.m3u8
 http://200.26.177.54:8000/play/a0iv/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve C" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve C
-http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157621.ts
+https://nameless-resonance-f644.javimarki.workers.dev/12
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
 http://190.7.19.197:232/play/a05a/index.m3u8
@@ -33,7 +33,7 @@ http://190.7.19.197:232/play/a05a/index.m3u8
 http://200.26.177.54:8000/play/a0es/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
-http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157591.ts
+https://nameless-resonance-f644.javimarki.workers.dev/14
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
 http://190.7.19.197:232/play/a041/index.m3u8
@@ -42,7 +42,7 @@ http://190.7.19.197:232/play/a041/index.m3u8
 http://138.59.227.20:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="Cronica C" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica C
-https://nameless-resonance-f644.javimarki.workers.dev/6
+http://liontv.es:8080/live/Nelson1/Nelson2023/334372.ts
 
 #EXTINF:-1 tvg-id="C5N A" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N A
 http://190.7.19.197:232/play/a040/index.m3u8
@@ -51,7 +51,7 @@ http://190.7.19.197:232/play/a040/index.m3u8
 http://138.59.227.20:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N C" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N C
-http://tv.zeuspro.xyz:8080/live/audri.2/9d4f113ed1d0/157607.ts
+https://nameless-resonance-f644.javimarki.workers.dev/2
 
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN A
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
