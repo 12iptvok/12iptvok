@@ -228,10 +228,10 @@ http://planettvweb.com:8091/live/Jorge42/MPda4257/12040.ts
 http://planettvweb.com:8091/live/Jorge42/MPda4257/50497.ts
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-https://wp.streamtp.sbs/disney1/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=b65198c7a38c4a295c32570e588496ba22716645-79-1783587964-1783533964
+https://wp.streamtp.sbs/dsports/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=78809838ac735f5a56f45e523d2360e9b42b3c62-d9-1783753754-1783699754
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
-https://ahfre.vivolatamz.org/eventos/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=a6c43d4889b1f83991af2d5d1cb7fe63de0fdc3f-41-1783599051-1783545051
+https://wp.streamtp.sbs/telemundousa/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=3abfa3d72bd7be62002f451e461b62a1cfa1dafe-a0-1783753944-1783699944
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
