@@ -222,7 +222,7 @@ http://190.108.93.180:8000/play/a054/index.m3u8
 https://tinyurl.com/tycsportsar
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-http://planettvweb.com:8091/live/Jorge42/MPda4257/12040.ts
+http://31.43.191.125:8080/live/VIP0187174445475757/51744454757895/158462.ts
 
 #EXTINF:-1 tvg-id="Eventos C" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos C
 http://45.186.254.75:8000/play/a04v/index.m3u8
