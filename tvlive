@@ -96,7 +96,7 @@ http://181.224.255.210:8001/play/a0mo/index.m3u8
 http://190.60.48.151:8010/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://iili.io/JKgZg87.png" group-title="Documentales",Universal Crime
-http://45.5.117.46:8000/play/a0i4/index.m3u8
+http://45.5.118.139:8000/play/a0i4/index.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-logo="https://iili.io/JKghTCv.png" group-title="Documentales",History
 http://190.108.83.69:8000/play/a045/index.m3u8
