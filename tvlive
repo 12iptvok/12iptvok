@@ -137,8 +137,8 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/pla
 #EXTINF:-1 tvg-id="Galicia TV" tvg-logo="https://i.postimg.cc/RFt7yXDm/galicia-tv.png" group-title="Entretenimiento",Galicia TV
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Aragón TV" tvg-logo="https://i.postimg.cc/2j4dx9vr/aragon-tv.png" group-title="Entretenimiento",Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="Televisión Canaria" tvg-logo="https://i.postimg.cc/bN7Mkrk4/television-canaria.png" group-title="Entretenimiento",Televisión Canaria
+https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.ibb.co/hFnNnJn8/canal-sur-andalucia-A.png" group-title="Entretenimiento",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
