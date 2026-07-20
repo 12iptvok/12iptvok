@@ -140,9 +140,6 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="Televisión Canaria" tvg-logo="https://i.postimg.cc/bN7Mkrk4/television-canaria.png" group-title="Entretenimiento",Televisión Canaria
 https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 7 Andalucía" tvg-logo="https://i.postimg.cc/m2wTx3B3/canal7-andalucia.png" group-title="Entretenimiento",Canal 7 Andalucía
-https://especial7tv.gestec-video.com/hls/regional.m3u8
-
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
 http://152.230.229.66:8001/play/a011/index.m3u8
 
