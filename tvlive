@@ -140,9 +140,6 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="Televisión Canaria" tvg-logo="https://i.postimg.cc/bN7Mkrk4/television-canaria.png" group-title="Entretenimiento",Televisión Canaria
 https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://i.ibb.co/hFnNnJn8/canal-sur-andalucia-A.png" group-title="Entretenimiento",Canal Sur Andalucía
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="Peliculas - Series",Star Channel
 http://152.230.229.66:8001/play/a011/index.m3u8
 
@@ -192,7 +189,7 @@ http://181.209.39.82:8000/play/a06z/index.m3u8
 http://190.7.19.197:232/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium B
-http://200.26.177.54:8000/play/a0ex/index.m3u8
+http://181.209.39.82:8000/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
 http://190.7.19.197:232/play/a03n/index.m3u8
@@ -216,7 +213,7 @@ http://190.7.19.197:232/play/a05u/index.m3u8
 http://179.43.96.253:8000/play/a24w/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
-http://190.108.93.180:8000/play/a054/index.m3u8
+http://38.43.132.201:8000/play/a0wu/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
 https://tinyurl.com/tycsportsar
