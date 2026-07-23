@@ -210,7 +210,7 @@ http://190.7.19.197:232/play/a03o/index.m3u8
 http://190.7.19.197:232/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports A
-http://179.43.96.253:8000/play/a24w/index.m3u8
+http://45.71.202.124:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
 http://38.43.132.201:8000/play/a0wu/index.m3u8
@@ -219,7 +219,7 @@ http://38.43.132.201:8000/play/a0wu/index.m3u8
 https://tinyurl.com/tycsportsar
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-http://31.43.191.125:8080/live/VIP0187174445475757/51744454757895/158462.ts
+https://se.domain156.xyz/disney2/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=49aaafc21c0253b8d2720ed8a4a0d799ab45c6a7-93-1784895525-1784841525
 
 #EXTINF:-1 tvg-id="Eventos C" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos C
 http://45.186.254.75:8000/play/a04v/index.m3u8
