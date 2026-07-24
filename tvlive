@@ -222,7 +222,7 @@ https://tinyurl.com/tycsportsar
 https://se.domain156.xyz/disney2/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=49aaafc21c0253b8d2720ed8a4a0d799ab45c6a7-93-1784895525-1784841525
 
 #EXTINF:-1 tvg-id="Eventos C" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos C
-http://45.186.254.75:8000/play/a04v/index.m3u8
+https://m2.domain990.sbs/espnar/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=40942fe4a2e8cad13a13662ce7a94ff019d83eae-9f-1784895583-1784841583
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
 http://38.49.138.194:8000/play/a0bv/index.m3u8?hls
