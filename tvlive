@@ -81,7 +81,6 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="Documentales",Encuentro
-http://lotvservices.net:80/live/Walterdavid/9UbMJRMUpN/327037.ts
 http://158.172.155.130:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.postimg.cc/k4BQYcdT/animal-planet.png" group-title="Documentales",Animal Planet
@@ -223,10 +222,10 @@ http://38.43.132.201:8000/play/a0wu/index.m3u8
 https://tinyurl.com/tycsportsar
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-https://se.domain156.xyz/disney2/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=49aaafc21c0253b8d2720ed8a4a0d799ab45c6a7-93-1784895525-1784841525
+https://cxm2.futbolonlinehd.com/espnpremium/mono.m3u8?token=42eae855d39a83faf6269051bf7edf11e76231ec-c6-1785120603-1785102603
 
 #EXTINF:-1 tvg-id="Eventos C" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos C
-https://m2.domain990.sbs/espnar/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=40942fe4a2e8cad13a13662ce7a94ff019d83eae-9f-1784895583-1784841583
+https://p1.domain761.sbs/espnpremium/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=675a19d41baa485b08f5b33b6f5716209a4c5917-a4-1785148723-1785094723
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
 http://38.49.138.194:8000/play/a0bv/index.m3u8?hls
