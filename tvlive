@@ -150,7 +150,7 @@ http://190.7.19.197:232/play/a04b/index.m3u8
 http://190.108.80.138:8000/play/a0iy/index.m3u8
 
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://iili.io/JKgQQ2I.png" group-title="Peliculas - Series",Space
-http://45.5.57.132:8000/play/a04f/index.m3u8
+http://181.78.50.91:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="Peliculas - Series",Universal TV
 http://190.108.80.138:8000/play/a08x/index.m3u8
@@ -168,7 +168,7 @@ http://45.5.116.228:8000/play/a00c/index.m3u8
 http://45.5.116.228:8000/play/a0l4/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://iili.io/JKgDyQa.png" group-title="Peliculas - Series",Cinecanal
-http://45.5.57.132:8000/play/a049/index.m3u8
+http://181.78.50.91:8000/play/a048/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner TV" tvg-logo="https://i.postimg.cc/8CjL34Qc/warner-tv.png" group-title="Peliculas - Series",Warner TV
 http://190.60.48.151:8010/play/a03w/index.m3u8
