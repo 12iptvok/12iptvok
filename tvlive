@@ -108,7 +108,7 @@ http://190.108.93.180:8000/play/a00n/index.m3u8
 http://179.43.96.253:8000/play/a1xn/index.m3u8
 
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="https://iili.io/JKgNuGj.png" group-title="Documentales",Odisea
-http://tv.zeuspro.xyz:8080/JesusB5306/35301c7e0252/161911
+http://alltvmx.com/live/MADELYN2025/MADELYN2025/414731.ts?hls
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
 http://190.7.19.197:232/play/a064/index.m3u8
@@ -219,13 +219,13 @@ http://45.71.202.124:8000/play/a001/index.m3u8
 http://38.43.132.201:8000/play/a0wu/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
-https://tinyurl.com/tycsportsar
+http://fortv.cc:8080/live/BC3SuX/983484/327380.ts?hls
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-https://cxm2.futbolonlinehd.com/espnpremium/mono.m3u8?token=42eae855d39a83faf6269051bf7edf11e76231ec-c6-1785120603-1785102603
+http://177.53.152.117:8000/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos C" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos C
-https://p1.domain761.sbs/espnpremium/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=675a19d41baa485b08f5b33b6f5716209a4c5917-a4-1785148723-1785094723
+http://38.187.7.252:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
 http://38.49.138.194:8000/play/a0bv/index.m3u8?hls
