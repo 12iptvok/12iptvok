@@ -213,7 +213,7 @@ http://190.7.19.197:232/play/a03o/index.m3u8
 http://190.7.19.197:232/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports A
-http://45.71.202.124:8000/play/a001/index.m3u8
+http://191.97.61.32:8000/play/a08t/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
 http://38.43.132.201:8000/play/a0wu/index.m3u8
