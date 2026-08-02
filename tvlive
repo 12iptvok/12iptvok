@@ -183,13 +183,13 @@ http://181.232.188.21:8282/play/a05h/index.m3u8
 http://38.187.2.124:8000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium A
-http://190.7.19.197:232/play/a037/index.m3u8
+http://138.59.227.20:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium B" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium B
 http://181.209.38.115:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium A
-http://190.7.19.197:232/play/a038/index.m3u8
+http://138.59.227.20:8000/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium B
 http://181.209.38.115:8000/play/a00f/index.m3u8
@@ -228,7 +228,7 @@ http://177.53.152.117:8000/play/a0aq/index.m3u8
 http://38.187.7.252:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-https://se.tudeporteshoy.xyz/global/espn/index.m3u8?token=c53638d60ac8a1c2b2ff80ecfe56029461908352-8b-1785500892-1785446892&ip=181.209.100.132
+https://am91cm5leq.fubo18.com/tntsports/mono.m3u8?token=30858d5f7efdd2dfbbdf37fc3fb687cf2c5ce741-95-1785716760-1785698760
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
 https://yxdlc29tzq.fubo18.com/dsports_eventos/mono.m3u8?token=4e8f0228b4356a7f451f9b12be720ffe97673ec9-5b-1785473059-1785455059
