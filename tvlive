@@ -3,7 +3,7 @@
 http://181.232.188.21:8282/play/384/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe B" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe B
-http://190.7.19.197:232/play/a059/index.m3u8
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe C" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe C
 http://138.59.227.20:8000/play/a08a/index.m3u8
@@ -18,25 +18,25 @@ http://177.53.153.207:8000/play/a00g/index.m3u8
 http://elpapanatas.space:8080/live/JavierRenderos/xakRfkrgDJ/207942.ts
 
 #EXTINF:-1 tvg-id="El Nueve A" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve A
-http://190.7.19.197:232/play/a03k/index.m3u8
+http://177.53.153.207:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve B" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve B
-http://177.53.153.207:8000/play/a00e/index.m3u8
+http://15.204.246.24:8080/elnueveHD/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve C" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve C
 https://nameless-resonance-f644.javimarki.workers.dev/12
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
-http://190.7.19.197:232/play/a05a/index.m3u8
+http://177.53.153.207:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
-http://177.53.153.207:8000/play/a00p/index.m3u8
+http://15.204.246.24:8080/eltreceHD/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
 https://nameless-resonance-f644.javimarki.workers.dev/14
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
-http://190.7.19.197:232/play/a041/index.m3u8
+http://181.115.239.66:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Cronica B" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica B
 http://138.59.227.20:8000/play/a05w/index.m3u8
@@ -45,7 +45,7 @@ http://138.59.227.20:8000/play/a05w/index.m3u8
 http://liontv.es:8080/live/Nelson1/Nelson2023/334372.ts
 
 #EXTINF:-1 tvg-id="C5N A" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N A
-http://190.7.19.197:232/play/a040/index.m3u8
+http://45.134.141.161:2200/ARG/C5N/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N B" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N B
 http://138.59.227.20:8000/play/a05v/index.m3u8
@@ -195,19 +195,19 @@ http://138.59.227.20:8000/play/a086/index.m3u8
 http://181.209.38.115:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
-http://190.7.19.197:232/play/a03n/index.m3u8
+http://181.115.239.66:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
 http://179.43.96.253:8000/play/a24x/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 A
-http://190.7.19.197:232/play/a03m/index.m3u8
+http://181.115.239.66:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 B" tvg-logo="https://iili.io/JKrdO5x.png" group-title="Deportes",ESPN 2 B
 http://179.43.96.253:8000/play/a1ys/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Deportes",ESPN 3
-http://190.7.19.197:232/play/a03o/index.m3u8
+http://181.115.239.66:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="Deportes",FOX Sports
 http://190.7.19.197:232/play/a05u/index.m3u8
