@@ -15,7 +15,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 http://177.53.153.207:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="America C" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="Noticias",America C
-http://elpapanatas.space:8080/live/JavierRenderos/xakRfkrgDJ/207942.ts
+http://181.115.239.66:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve A" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve A
 http://177.53.153.207:8000/play/a00e/index.m3u8
@@ -24,7 +24,7 @@ http://177.53.153.207:8000/play/a00e/index.m3u8
 http://15.204.246.24:8080/elnueveHD/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve C" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve C
-https://nameless-resonance-f644.javimarki.workers.dev/12
+http://fortv.cc:8080/BC3SuX/983484/327305
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
 http://177.53.153.207:8000/play/a00p/index.m3u8
@@ -42,7 +42,7 @@ http://181.115.239.66:8000/play/a02r/index.m3u8
 http://138.59.227.20:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="Cronica C" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica C
-http://liontv.es:8080/live/Nelson1/Nelson2023/334372.ts
+http://fortv.cc:8080/BC3SuX/983484/327316
 
 #EXTINF:-1 tvg-id="C5N A" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N A
 http://45.134.141.161:2200/ARG/C5N/index.m3u8
@@ -51,7 +51,7 @@ http://45.134.141.161:2200/ARG/C5N/index.m3u8
 http://138.59.227.20:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N C" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N C
-https://nameless-resonance-f644.javimarki.workers.dev/2
+http://fortv.cc:8080/BC3SuX/983484/327304
 
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN A
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
