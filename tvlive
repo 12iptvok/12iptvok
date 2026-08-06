@@ -36,7 +36,7 @@ http://15.204.246.24:8080/eltreceHD/index.m3u8
 https://nameless-resonance-f644.javimarki.workers.dev/14
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
-http://181.115.239.66:8000/play/a02r/index.m3u8
+http://190.128.214.127:64333/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="Cronica B" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica B
 http://138.59.227.20:8000/play/a05w/index.m3u8
