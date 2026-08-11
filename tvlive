@@ -228,7 +228,7 @@ http://177.53.152.117:8000/play/a0aq/index.m3u8
 http://38.187.7.252:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-https://s1.tudeporteshoy.xyz/espnpremium/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=578b2a60fd920b6b49a4a1a504124f17183c6fcd-d9-1786272016-1786218016
+https://ewvz.fubo18.com/espn/mono.m3u8?token=2d13f9bea56d711bc886f52767f1bf4f5e51699d-7-1786501951-1786483951
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
 https://b2zmawnpyww.fubo18.com/espnpremium/mono.m3u8?token=39254274a923052a36dc8d2e54640a0767fb3f3b-f6-1786244153-1786226153
