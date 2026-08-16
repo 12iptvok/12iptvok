@@ -219,7 +219,7 @@ http://191.97.61.32:8000/play/a08t/index.m3u8
 http://38.43.132.201:8000/play/a0wu/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
-http://fortv.cc:8080/live/BC3SuX/983484/327380.ts?hls
+http://38.224.175.2:8000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
 http://177.53.152.117:8000/play/a0aq/index.m3u8
@@ -228,10 +228,10 @@ http://177.53.152.117:8000/play/a0aq/index.m3u8
 http://38.187.7.252:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-http://38.224.175.2:8000/play/a066/index.m3u8
+https://10.tvlibre.pe/espnpremium/mono.m3u8?token=58e844a0cb58e16cb0137006920e3837950bb343-5f-1786929941-1786911941
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
-https://b2zmawnpyww.fubo18.com/espnpremium/mono.m3u8?token=39254274a923052a36dc8d2e54640a0767fb3f3b-f6-1786244153-1786226153
+https://6.tvlibre.pe/espnpremium/mono.m3u8?token=ec9a16c81a76b70cce504cf9785feee0f70e8d85-52-1786929997-1786911997
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
