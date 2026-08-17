@@ -27,7 +27,7 @@ http://15.204.246.24:8080/elnueveHD/index.m3u8
 http://fortv.cc:8080/BC3SuX/983484/327305
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
-http://177.53.153.207:8000/play/a00p/index.m3u8
+http://138.121.113.175:8000/play/a08l/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
 http://15.204.246.24:8080/eltreceHD/index.m3u8
