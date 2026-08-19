@@ -69,7 +69,7 @@ http://45.134.141.161:2200/ARG/A24/index.m3u8
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://i.postimg.cc/ZRM99t2c/cgtn.png" group-title="Noticias",CGTN
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+https://espanol-livetx-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=b899f205bb18e5054ffe355fc9edaf44&wsTime=1787172509
 
 #EXTINF:-1 tvg-id="RT" tvg-logo="https://i.postimg.cc/CM9NtW5k/rt.png" group-title="Noticias",RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
