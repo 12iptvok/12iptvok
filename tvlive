@@ -87,7 +87,7 @@ http://158.172.155.130:8000/play/a00n/index.m3u8
 http://179.43.96.253:8000/play/a211/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://iili.io/JKgcFR4.png" group-title="Documentales",Discovery Channel
-http://181.119.93.83:8000/play/a11v
+http://181.224.255.210:8001/play/a0m0/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/mrP6THcR/discovery-science.png" group-title="Documentales",Discovery Science
 http://181.224.255.210:8001/play/a0mo/index.m3u8
@@ -150,7 +150,7 @@ http://181.115.239.66:8000/play/a02x/index.m3u8
 http://190.108.80.138:8000/play/a0iy/index.m3u8
 
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://iili.io/JKgQQ2I.png" group-title="Peliculas - Series",Space
-http://181.78.50.91:8000/play/a019/index.m3u8
+http://181.224.255.210:8001/play/a0ma/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.postimg.cc/SRm2pBJt/universal-tv.png" group-title="Peliculas - Series",Universal TV
 http://190.108.80.138:8000/play/a08x/index.m3u8
@@ -168,7 +168,7 @@ http://45.5.116.228:8000/play/a00c/index.m3u8
 http://45.5.116.228:8000/play/a0l4/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://iili.io/JKgDyQa.png" group-title="Peliculas - Series",Cinecanal
-http://181.78.50.91:8000/play/a048/index.m3u8
+http://181.224.255.210:8001/play/a0ob/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner TV" tvg-logo="https://i.postimg.cc/8CjL34Qc/warner-tv.png" group-title="Peliculas - Series",Warner TV
 http://190.60.48.151:8010/play/a03w/index.m3u8
