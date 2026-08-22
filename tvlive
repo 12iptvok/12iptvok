@@ -78,7 +78,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://i.postimg.cc/9QYYD0pY/hispantv.png" group-title="Noticias",HispanTV
-https://live.presstv.ir/hls/hispantv.m3u8
+http://181.225.190.242:8000/play/a021
 
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://i.postimg.cc/50BRWPRm/encuentro.png" group-title="Documentales",Encuentro
 http://158.172.155.130:8000/play/a00n/index.m3u8
