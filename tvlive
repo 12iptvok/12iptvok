@@ -180,7 +180,7 @@ http://138.59.227.20:8000/play/a06x/index.m3u8
 http://181.232.188.21:8282/play/a05h/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports Internacional" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports Internacional
-http://179.1.110.145:9000/play/a047/index.m3u8
+http://38.187.7.252:8000/play/a056/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium A
 http://138.59.227.20:8000/play/a06z/index.m3u8
