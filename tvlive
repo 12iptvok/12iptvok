@@ -231,7 +231,7 @@ http://38.187.7.252:8000/play/a02r/index.m3u8
 http://181.209.80.115:8000/play/tyc_sports_hd
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
-https://47.domhsd.com/tudn_usa/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=dc622cf9516f46ae81713ff4c1d635ab04e50fe0-14-1788176794-1788122794
+https://a2lja3m.fubo18.com/tycsports/mono.m3u8?token=65a93d7e1e6531801bccd9cbfb38c87a3244c561-83-1788408532-1788390532
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
