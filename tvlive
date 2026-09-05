@@ -228,10 +228,10 @@ http://177.53.152.117:8000/play/a0aq/index.m3u8
 http://38.187.7.252:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-http://181.209.80.115:8000/play/tyc_sports_hd
+https://bmf0aw9u.fubo18.com/espnpremium/mono.m3u8?token=a5dc3d743966bab8c12fc1e780f75b58c4d0bd04-cc-1788653032-1788635032
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
-https://a2lja3m.fubo18.com/tycsports/mono.m3u8?token=65a93d7e1e6531801bccd9cbfb38c87a3244c561-83-1788408532-1788390532
+https://193.domhsd.com/espnpremium/tracks-v1a1/mono.m3u8?ip=186.153.145.3&token=3bfa6bc67357702e4167755dfe79b4252a65531c-df-1788680903-1788626903
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
