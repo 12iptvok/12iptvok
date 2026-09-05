@@ -24,7 +24,7 @@ http://177.53.153.207:8000/play/a00e/index.m3u8
 http://15.204.246.24:8080/elnueveHD/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve C" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve C
-http://fortv.cc:8080/BC3SuX/983484/327305
+http://1000digital.pw:8080/play/ByAAUSwlAfHqd2alnH4GDLT5WdYwurion4EULJYNIKWnHCO8YceJ__ejEjR5DCw4
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
 http://177.53.153.207:8000/play/a00p/index.m3u8
@@ -36,10 +36,10 @@ http://15.204.246.24:8080/eltreceHD/index.m3u8
 https://nameless-resonance-f644.javimarki.workers.dev/14
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
-http://45.226.28.9:8085/Live/5a13eba449269ad831f5bc9fd563ccb3//local-cronicatv_480.m3u8
+http://138.59.227.20:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="Cronica B" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica B
-http://138.59.227.20:8000/play/a05w/index.m3u8
+http://45.226.28.9:8085/Live/5a13eba449269ad831f5bc9fd563ccb3//local-cronicatv_480.m3u8
 
 #EXTINF:-1 tvg-id="Cronica C" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica C
 http://fortv.cc:8080/BC3SuX/983484/327316
@@ -51,7 +51,7 @@ http://45.134.141.161:2200/ARG/C5N/index.m3u8
 http://138.59.227.20:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N C" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N C
-http://fortv.cc:8080/BC3SuX/983484/327304
+http://1000digital.pw:8080/play/ByAAUSwlAfHqd2alnH4GDPl7mCmLMUOGRKM5MoQ-cD5moN3UPn-RBbpjAioixJ8N
 
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN A
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
@@ -60,7 +60,7 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://138.59.227.20:8000/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="TN C" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN C
-http://virgencitachatuti.com:8080/live/LeonardoHurtado/d8BU2utDfF/712717.ts
+http://1000digital.pw:8080/play/ByAAUSwlAfHqd2alnH4GDGROzjNKKYr0vOVOqPurDGu9v49KKqazPR9-x8iTLJMA
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="Noticias",A24
 http://45.134.141.161:2200/ARG/A24/index.m3u8
