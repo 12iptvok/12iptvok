@@ -216,7 +216,7 @@ http://177.53.153.207:8000/play/a008/index.m3u8
 http://191.97.61.32:8000/play/a08t/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
-http://38.43.132.201:8000/play/a0wu/index.m3u8
+http://179.43.96.253:8000/play/a24w/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
 http://38.224.175.2:8000/play/a066/index.m3u8
@@ -228,10 +228,10 @@ http://177.53.152.117:8000/play/a0aq/index.m3u8
 http://38.187.7.252:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-https://7.domhsd.com/espn/tracks-v1a1/mono.m3u8?ip=186.153.145.3&token=ed948bb560d57b6091a897064048e235a62c0df0-18-1788940035-1788886035
+https://98.domhsd.com/espn/tracks-v1a1/mono.m3u8?ip=186.153.145.3&token=5cc024be92a4912ead795c15396f91260a40370a-dd-1788956727-1788902727
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
-https://47.domhsd.com/disney6/index.m3u8?token=dea2a2b67674ad75aa97752a121d57623767880e-3c-1788940075-1788886075&ip=186.153.145.3
+https://s2.envivoslatam99.sbs/espn/index.m3u8?token=2b1a1d437e62459d5a8e0516b3ab0fcc28ab8dd4-15-1788956760-1788902760&ip=186.153.145.3
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
