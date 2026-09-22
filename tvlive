@@ -174,7 +174,7 @@ http://181.224.255.210:8001/play/a0ob/index.m3u8
 http://190.60.48.151:8010/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
-http://138.59.227.20:8000/play/a06x/index.m3u8
+http://195.178.110.110:80/tycsports/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports B
 http://181.232.188.21:8282/play/a05h/index.m3u8
