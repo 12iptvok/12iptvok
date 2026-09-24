@@ -3,7 +3,7 @@
 http://181.232.188.21:8282/play/384/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe B" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe B
-http://138.59.227.20:8000/play/a08a/index.m3u8
+http://195.178.110.110:80/telefe/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe C" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe C
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
@@ -36,10 +36,10 @@ http://181.13.198.204:8000/play/a05y/index.m3u8
 https://nameless-resonance-f644.javimarki.workers.dev/14
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
-http://138.59.227.20:8000/play/a05w/index.m3u8
+http://45.179.152.42:8000/play/a03b
 
 #EXTINF:-1 tvg-id="Cronica B" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica B
-http://45.226.28.9:8085/Live/5a13eba449269ad831f5bc9fd563ccb3//local-cronicatv_480.m3u8
+http://181.115.239.66:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Cronica C" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica C
 http://45.70.221.206/CRONICA_OTT/playlist.m3u8
@@ -48,7 +48,7 @@ http://45.70.221.206/CRONICA_OTT/playlist.m3u8
 http://45.134.141.161:2200/ARG/C5N/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N B" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N B
-http://138.59.227.20:8000/play/a05v/index.m3u8
+http://181.78.27.128:22000/play/a0w2/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N C" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N C
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist.m3u8
