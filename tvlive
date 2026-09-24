@@ -24,7 +24,7 @@ http://181.209.105.115:2525/play/elnueve/index.m3u8
 http://181.115.239.66:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve C" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve C
-http://1000digital.pw:8080/play/ByAAUSwlAfHqd2alnH4GDLT5WdYwurion4EULJYNIKWnHCO8YceJ__ejEjR5DCw4
+http://181.78.27.128:22000/play/a0n5/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
 http://181.209.105.115:2525/play/eltrece/index.m3u8
@@ -33,7 +33,7 @@ http://181.209.105.115:2525/play/eltrece/index.m3u8
 http://181.13.198.204:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
-https://nameless-resonance-f644.javimarki.workers.dev/14
+http://181.78.27.128:22000/play/a0mg/index.m3u8
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
 http://45.179.152.42:8000/play/a03b
