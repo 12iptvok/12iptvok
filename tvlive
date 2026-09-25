@@ -192,7 +192,7 @@ http://190.128.214.127:64333/play/a03c/index.m3u8
 http://181.209.80.115:8000/play/espn_premium_hd
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium B
-http://181.232.188.21:8282/play/a05e/index.m3u8
+http://190.128.214.127:64333/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
 http://181.115.239.66:8000/play/a00n/index.m3u8
