@@ -18,22 +18,22 @@ http://181.115.239.66:8000/play/a00i/index.m3u8
 http://181.115.239.66:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve A" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve A
-http://181.209.105.115:2525/play/elnueve/index.m3u8
-
-#EXTINF:-1 tvg-id="El Nueve B" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve B
 http://181.115.239.66:8000/play/a00k/index.m3u8
 
+#EXTINF:-1 tvg-id="El Nueve B" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve B
+http://181.209.38.115:8000/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-id="El Nueve C" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve C
-http://181.78.27.128:22000/play/a0n5/index.m3u8
+http://181.209.38.115:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
 http://181.209.38.115:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
-http://181.78.27.128:22000/play/a0mg/index.m3u8
+http://138.59.227.20:8000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
-http://181.78.27.128:22000/play/a0mg/index.m3u8
+http://177.53.153.207:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
 http://45.179.152.42:8000/play/a03b
@@ -48,7 +48,7 @@ http://45.70.221.206/CRONICA_OTT/playlist.m3u8
 http://45.134.141.161:2200/ARG/C5N/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N B" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N B
-http://181.209.105.115:2525/play/c5n/index.m3u8
+http://138.59.227.20:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N C" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N C
 http://138.59.227.20:8000/play/a05v/index.m3u8
@@ -58,9 +58,6 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 #EXTINF:-1 tvg-id="TN B" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN B
 http://138.59.227.20:8000/play/a097/index.m3u8
-
-#EXTINF:-1 tvg-id="TN C" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN C
-http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tn.playlist.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="Noticias",A24
 http://45.134.141.161:2200/ARG/A24/index.m3u8
