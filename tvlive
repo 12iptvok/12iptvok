@@ -27,7 +27,7 @@ http://181.115.239.66:8000/play/a00k/index.m3u8
 http://181.78.27.128:22000/play/a0n5/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
-http://181.209.80.115:8000/play/el_trece_hd
+http://181.209.38.115:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
 http://181.78.27.128:22000/play/a0mg/index.m3u8
