@@ -216,7 +216,7 @@ http://191.97.61.32:8000/play/a08t/index.m3u8
 http://179.43.96.253:8000/play/a24w/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
-http://38.224.175.2:8000/play/a066/index.m3u8
+http://191.97.61.32:8000/play/a0e9/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
 http://177.53.152.117:8000/play/a0aq/index.m3u8
@@ -225,10 +225,10 @@ http://177.53.152.117:8000/play/a0aq/index.m3u8
 http://38.187.7.252:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-https://bgvnzw5k.fubo18.com/espnpremium/mono.m3u8?token=d099eb03126b4609ba4685228b0b942ceff5b1fb-4e-1791694615-1791676615
+https://2.ftlly.com/espn/mono.m3u8?token=dda2237a210dc2f3405aef7bd56f41fe8472f126-32-1791953322-1791935322
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
-https://s2.envivoslatam99.sbs/disney17/index.m3u8?token=9819447c0dcac91823bd6c9be9260da16daf448d-b8-1791722402-1791668402&ip=181.209.100.132
+https://3.ftlly.com/dsports/mono.m3u8?token=75bb477f303ae7642b5150b25e9dfec86da3da67-a-1791953380-1791935380
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
