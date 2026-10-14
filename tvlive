@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Telefe A" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe A
-http://181.232.188.21:8282/play/384/index.m3u8
-
-#EXTINF:-1 tvg-id="Telefe B" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe B
 http://177.53.153.207:8000/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe C" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe C
+#EXTINF:-1 tvg-id="Telefe B" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe B
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe C" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe C
+http://181.232.188.21:8282/play/384/index.m3u8
 
 #EXTINF:-1 tvg-id="America A" tvg-logo="https://i.postimg.cc/XvgdYPnH/america-tv.png" group-title="Noticias",America A
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -21,19 +21,19 @@ http://181.115.239.66:8000/play/a00i/index.m3u8
 http://181.115.239.66:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve B" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve B
-http://181.209.38.115:8000/play/a00m/index.m3u8
+http://avefenixtv.com:8080/live/Rafa2409berri/yBHxTaMwCT/712708.ts
 
 #EXTINF:-1 tvg-id="El Nueve C" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve C
-http://181.209.38.115:8000/play/a00m/index.m3u8
+http://myultratv.com:8080/live/994763158tv/d7t5wq564/15881.ts
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
-http://181.209.38.115:8000/play/a00n/index.m3u8
-
-#EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
 http://138.59.227.20:8000/play/a07b/index.m3u8
 
-#EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
+#EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
 http://177.53.153.207:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
+http://avefenixtv.com:8080/live/Rafa2409berri/yBHxTaMwCT/712710.ts
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
 http://45.179.152.42:8000/play/a03b
