@@ -30,10 +30,10 @@ http://myultratv.com:8080/live/994763158tv/d7t5wq564/15881.ts
 http://181.209.80.115:8000/play/el_trece_hd
 
 #EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
-http://177.53.153.207:8000/play/a00p/index.m3u8
+http://avefenixtv.com:8080/live/Rafa2409berri/yBHxTaMwCT/712710.ts
 
 #EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
-http://avefenixtv.com:8080/live/Rafa2409berri/yBHxTaMwCT/712710.ts
+http://myultratv.com:8080/live/994763158tv/d7t5wq564/15905.ts
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
 http://45.179.152.42:8000/play/a03b
@@ -51,7 +51,7 @@ http://45.134.141.161:2200/ARG/C5N/index.m3u8
 http://avefenixtv.com:8080/live/Rafa2409berri/yBHxTaMwCT/712705.ts
 
 #EXTINF:-1 tvg-id="C5N C" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N C
-http://avefenixtv.com:8080/live/Rafa2409berri/yBHxTaMwCT/712705.ts
+http://myultratv.com:8080/live/994763158tv/d7t5wq564/15817.ts
 
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN A
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
