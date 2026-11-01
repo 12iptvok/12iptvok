@@ -225,10 +225,10 @@ http://177.53.152.117:8000/play/a0aq/index.m3u8
 http://38.187.7.252:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-https://3d269i.l948728p57nx.net:8443/hls/uunm4vwstv1fm.m3u8?s=5akwTrWuBP89mCWP1ESAdA&e=1792978992
+https://3.ftlly.com/espnpremium/mono.m3u8?token=fb46b67be571d25b28a623262b71e30d350f503f-e1-1793571748-1793553748
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
-https://93.domhsd.com/espnpremium/index.m3u8?token=5d1abc610082b0bd33fbd366b0bc9d6c331a35d0-6e-1793002427-1792948427&ip=181.209.100.132
+https://3.ftlly.com/tntsports/mono.m3u8?token=2af0440c7453d100679284aea2a7389362535fee-16-1793571776-1793553776
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
