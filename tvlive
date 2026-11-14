@@ -222,7 +222,7 @@ http://191.97.61.32:8000/play/a0e9/index.m3u8
 http://45.170.130.224:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos C" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos C
-http://190.131.243.54:9000/play/a0kb/index.m3u8
+http://138.59.177.78:9999/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
 https://am91cm5leq.fubo18.com/tycsports/mono.m3u8?token=62c52b808231047d3d5fe60546417e97a2e7fe6d-a4-1794708529-1794690529
