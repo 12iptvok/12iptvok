@@ -213,13 +213,13 @@ http://158.172.155.130:8000/play/a0an/index.m3u8
 http://191.97.61.32:8000/play/a08t/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports B" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="Deportes",DIRECTV Sports B
-http://179.43.96.253:8000/play/a24w/index.m3u8
+http://190.119.168.226:4000/play/a0a5/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos A
 http://191.97.61.32:8000/play/a0e9/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos B
-http://45.170.130.224:8000/play/a020/index.m3u8
+http://177.53.153.21:8000/play/a0el/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos C" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos C
 http://138.59.177.78:9999/play/a0g1/index.m3u8
