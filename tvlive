@@ -180,16 +180,16 @@ http://181.232.188.21:8282/play/a05h/index.m3u8
 http://45.186.254.75:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium A
-http://138.59.227.20:8000/play/a06z/index.m3u8
+http://190.7.19.197:9000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium B" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="Deportes",TNT Sports Premium B
-http://190.7.19.197:9000/play/a04w/index.m3u8
+http://45.188.229.33:8000/play/a1k1/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium A
-http://158.172.155.130:8000/play/a0ao/index.m3u8
+http://190.7.19.197:9000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="Deportes",ESPN Premium B
-http://138.59.227.20:8000/play/a086/index.m3u8
+http://45.188.229.33:8000/play/a1di/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
 http://181.115.239.66:8000/play/a00n/index.m3u8
@@ -225,10 +225,10 @@ http://177.53.153.21:8000/play/a0el/index.m3u8
 http://138.59.177.78:9999/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos D" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos D
-https://5.ftlly.com/espnpremium/mono.m3u8?token=2fdc1d35b25095ac6c19504ccefd9528742ded71-33-1795411943-1795393943
+https://am91cm5leq.fubo18.com/espn5/mono.m3u8?token=575c4bfc9c63d43a39d5b5691c81aeb2ed5005ab-9f-1795667005-1795649005
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
-https://10.ftlly.com/espnpremium/mono.m3u8?token=604b5b18935f8e17cf336a6877092d4b63e3b632-cd-1795412006-1795394006
+https://65.envivosenhd.beer/espn5cl/mono.m3u8?token=7a7f8cff7fb42f11bb7ebdcbe3bde91e814003a1-75-1795694982-1795640982&ip=181.209.100.132
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
