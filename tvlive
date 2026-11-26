@@ -24,7 +24,7 @@ http://181.115.239.66:8000/play/a00k/index.m3u8
 http://138.59.227.20:8000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve C" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve C
-http://avefenixtv.com:8080/live/Rafa2409berri/yBHxTaMwCT/712708.ts
+http://poseidon.neorpahe.top:8080/live/191784843815/b0d2950bb52d/9990.ts
 
 #EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
 http://190.7.19.197:9000/play/a05a/index.m3u8
@@ -33,7 +33,7 @@ http://190.7.19.197:9000/play/a05a/index.m3u8
 http://138.59.227.20:8000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
-http://avefenixtv.com:8080/live/Rafa2409berri/yBHxTaMwCT/712710.ts
+http://poseidon.neorpahe.top:8080/live/191784843815/b0d2950bb52d/10077.ts
 
 #EXTINF:-1 tvg-id="Cronica A" tvg-logo="https://i.postimg.cc/RV98PPCB/cronica.png" group-title="Noticias",Cronica A
 http://45.179.152.42:8000/play/a03b
@@ -105,7 +105,7 @@ http://190.108.93.180:8000/play/a00n/index.m3u8
 http://179.43.96.253:8000/play/a1xn/index.m3u8
 
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="https://iili.io/JKgNuGj.png" group-title="Documentales",Odisea
-http://sansat.cc:88/live/02084317199783/hOHAMHJJsehe4iA/127753.ts
+http://31.43.191.125:8080/live/restream/restream/710.ts
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://iili.io/JKg8A74.png" group-title="Entretenimiento",Discovery Home & Health
 http://181.119.215.61:8000/play/a0hw/index.m3u8
@@ -234,7 +234,7 @@ http://191.97.61.32:8000/play/a08y/index.m3u8
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.postimg.cc/X72YMqHQ/retro-plus.png" group-title="Musica",Retro Plus
-https://video06.logicahost.com.br/cableoperadorcolombia01/cableoperadorcolombia01/playlist.m3u8
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Canal de la Musica" tvg-logo="https://i.postimg.cc/26rnY7F8/cm-canal-musica.png" group-title="Musica",El Canal de la Musica
 https://g2.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
