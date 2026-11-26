@@ -228,7 +228,7 @@ http://138.59.177.78:9999/play/a0g1/index.m3u8
 https://am91cm5leq.fubo18.com/espn5/mono.m3u8?token=575c4bfc9c63d43a39d5b5691c81aeb2ed5005ab-9f-1795667005-1795649005
 
 #EXTINF:-1 tvg-id="Eventos E" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="Deportes",Eventos E
-https://65.envivosenhd.beer/espn5cl/mono.m3u8?token=7a7f8cff7fb42f11bb7ebdcbe3bde91e814003a1-75-1795694982-1795640982&ip=181.209.100.132
+http://191.97.61.32:8000/play/a08y/index.m3u8
 
 #EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
