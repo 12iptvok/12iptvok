@@ -3,7 +3,7 @@
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe B" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe B
-http://158.172.155.130:8000/play/a00h/index.m3u8
+http://177.53.153.207:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe C" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="Noticias",Telefe C
 http://181.232.188.21:8282/play/384/index.m3u8
@@ -21,7 +21,7 @@ http://181.115.239.66:8000/play/a00i/index.m3u8
 http://181.115.239.66:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve B" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve B
-http://138.59.227.20:8000/play/a08k/index.m3u8
+http://177.53.153.207:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve C" tvg-logo="https://i.postimg.cc/Tw7brWLn/canal-9.png" group-title="Noticias",El Nueve C
 http://poseidon.neorpahe.top:8080/live/191784843815/b0d2950bb52d/9990.ts
@@ -30,7 +30,7 @@ http://poseidon.neorpahe.top:8080/live/191784843815/b0d2950bb52d/9990.ts
 http://190.7.19.197:9000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
-http://138.59.227.20:8000/play/a07b/index.m3u8
+http://177.53.153.207:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
 http://poseidon.neorpahe.top:8080/live/191784843815/b0d2950bb52d/10077.ts
@@ -48,16 +48,16 @@ http://45.70.221.206/CRONICA_OTT/playlist.m3u8
 http://45.134.141.161:2200/ARG/C5N/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N B" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N B
-http://138.59.227.20:8000/play/a05v/index.m3u8
+http://poseidon.neorpahe.top:8080/live/191784843815/b0d2950bb52d/9989.ts
 
 #EXTINF:-1 tvg-id="C5N C" tvg-logo="https://i.postimg.cc/XYfysPBj/c5n.png" group-title="Noticias",C5N C
-http://avefenixtv.com:8080/live/Rafa2409berri/yBHxTaMwCT/712705.ts
+http://poseidon.neorpahe.top:8080/live/191784843815/b0d2950bb52d/9989.ts
 
 #EXTINF:-1 tvg-id="TN A" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN A
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 #EXTINF:-1 tvg-id="TN B" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="Noticias",TN B
-http://158.172.155.130:8000/play/a0dp/index.m3u8
+http://45.188.229.33:8000/play/a1ax/index.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/jq9Qz5yw/a24.png" group-title="Noticias",A24
 http://45.134.141.161:2200/ARG/A24/index.m3u8
